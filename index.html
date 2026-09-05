@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Configurable miniature painting collection">
+  <title>Miniature Painting Collection</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow" id="eyebrow">COLLECTION</p>
+    <h1 id="site-title">Miniature Painting Collection</h1>
+    <p id="site-subtitle">Miniatures & Painting Reference Sheets</p>
+  </div>
+</header>
+<main class="wrap">
+  <section class="controls" aria-label="Catalogue filters">
+    <input id="search" type="search" placeholder="Search miniatures…" aria-label="Search miniatures">
+    <select id="universe"><option value="">All universes</option></select>
+    <select id="faction"><option value="">All factions</option></select>
+    <select id="subfaction"><option value="">All subfactions</option></select>
+  </section>
+  <div class="summary"><span id="count"></span></div>
+  <section id="gallery" class="gallery" aria-live="polite"></section>
+  <p id="empty" class="empty" hidden>No miniatures match these filters.</p>
+</main>
+<dialog id="viewer">
+  <button class="close" id="close" aria-label="Close">×</button>
+  <div class="viewer-body">
+    <div class="viewer-media"><img id="viewer-image" alt=""></div>
+    <div class="viewer-info">
+      <p class="eyebrow" id="viewer-path"></p>
+      <h2 id="viewer-title"></h2>
+      <p id="viewer-description"></p>
+      <div id="image-tabs" class="tabs"></div>
+      <a id="source-link" class="source" target="_blank" rel="noopener noreferrer" hidden>Open source page ↗</a>
+      <div id="viewer-tags" class="tags"></div>
+    </div>
+  </div>
+</dialog>
+<script src="js/gallery.js"></script>
+</body>
+</html>
