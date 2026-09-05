@@ -15,8 +15,8 @@
       "description": "Raptors Primaris Infiltrator miniature and painting reference.",
       "tags": ["Adeptus Astartes", "Raptors", "Primaris", "Infiltrator"],
       "images": [
-        {"type":"miniature","title":"Miniature","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80","link":"https://github.com/paulneves/miniature-gallery","credit":"Demo placeholder"},
-        {"type":"painting-sheet","title":"Painting Sheet","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"}
+        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90","link":"https://github.com/paulneves/miniature-gallery","credit":"Demo placeholder"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
       ]
     },
     {
@@ -28,8 +28,8 @@
       "description": "Imperial Fists Primaris Lieutenant miniature and painting reference.",
       "tags": ["Adeptus Astartes", "Imperial Fists", "Primaris", "Lieutenant"],
       "images": [
-        {"type":"miniature","title":"Miniature","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"},
-        {"type":"painting-sheet","title":"Painting Sheet","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"}
+        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
       ]
     },
     {
@@ -41,8 +41,8 @@
       "description": "501st Legion Captain Rex miniature and painting reference.",
       "tags": ["Clone Trooper", "501st Legion", "Captain Rex", "Galactic Republic"],
       "images": [
-        {"type":"miniature","title":"Miniature","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"},
-        {"type":"painting-sheet","title":"Painting Sheet","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"}
+        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
       ]
     },
     {
@@ -54,8 +54,8 @@
       "description": "Imperial Shoretrooper miniature and painting reference.",
       "tags": ["Galactic Empire", "Shoretrooper", "Stormtrooper"],
       "images": [
-        {"type":"miniature","title":"Miniature","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"},
-        {"type":"painting-sheet","title":"Painting Sheet","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=900&q=80"}
+        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
       ]
     }
   ]
