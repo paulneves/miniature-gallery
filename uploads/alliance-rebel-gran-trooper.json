@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "alliance-rebel-gran-trooper",
+  "title": "Alliance Rebel Gran Trooper",
+  "universe": "Star Wars",
+  "faction": "Rebel Alliance",
+  "subfaction": "Rebel Troopers",
+  "assets": {
+    "miniature": "alliance-rebel-gran-trooper-mini.jpg",
+    "thumbnail": "alliance-rebel-gran-trooper-thumb.jpg",
+    "paintingSheet": "alliance-rebel-gran-trooper-paint-sheet.jpg"
+  }
+}
