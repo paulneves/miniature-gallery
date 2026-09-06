@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "clone-airborne-trooper-sharpshooter",
+  "title": "Clone Airborne Trooper Sharpshooter",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Airborne Troopers",
+  "assets": {
+    "miniature": "clone-airborne-trooper-sharpshooter-mini.jpg",
+    "thumbnail": "clone-airborne-trooper-sharpshooter-thumb.jpg",
+    "paintingSheet": "clone-airborne-trooper-sharpshooter-paint-sheet.jpg"
+  }
+}
