@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "imperial-elite-squad-trooper",
+  "title": "Imperial Elite Squad Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Elite Squad Troopers",
+  "assets": {
+    "miniature": "imperial-elite-squad-trooper-mini.jpg",
+    "thumbnail": "imperial-elite-squad-trooper-thumb.jpg",
+    "paintingSheet": "imperial-elite-squad-trooper-paint-sheet.jpg"
+  }
+}
