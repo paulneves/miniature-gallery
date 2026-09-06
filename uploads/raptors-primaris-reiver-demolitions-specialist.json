@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "raptors-primaris-reiver-demolitions-specialist",
+  "title": "Raptors – Primaris Reiver / Demolitions Specialist",
+  "universe": "Warhammer 40,000",
+  "faction": "Adeptus Astartes",
+  "subfaction": "Raptors",
+  "assets": {
+    "miniature": "raptors-primaris-reiver-demolitions-specialist-mini.jpg",
+    "thumbnail": "raptors-primaris-reiver-demolitions-specialist-thumb.jpg",
+    "paintingSheet": "raptors-primaris-reiver-demolitions-specialist-paint-sheet.jpg"
+  }
+}
