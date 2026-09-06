@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "imperial-sniper-snowtrooper",
+  "title": "Imperial Sniper Snowtrooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Snowtroopers",
+  "assets": {
+    "miniature": "imperial-sniper-snowtrooper-mini.jpg",
+    "thumbnail": "imperial-sniper-snowtrooper-thumb.jpg",
+    "paintingSheet": "imperial-sniper-snowtrooper-paint-sheet.jpg"
+  }
+}
