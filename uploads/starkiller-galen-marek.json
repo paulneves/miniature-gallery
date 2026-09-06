@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "starkiller-galen-marek",
+  "title": "Starkiller Galen Marek",
+  "universe": "Star Wars",
+  "faction": "The Force Unleashed",
+  "subfaction": "Starkiller",
+  "assets": {
+    "miniature": "starkiller-galen-marek-mini.jpg",
+    "thumbnail": "starkiller-galen-marek-thumb.jpg",
+    "paintingSheet": "starkiller-galen-marek-paint-sheet.jpg"
+  }
+}
