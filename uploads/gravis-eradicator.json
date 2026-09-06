@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "gravis-eradicator",
+  "title": "Gravis Eradicator",
+  "universe": "Warhammer 40,000",
+  "faction": "Adeptus Astartes",
+  "subfaction": "Space Marines",
+  "assets": {
+    "miniature": "gravis-eradicator-mini.jpg",
+    "thumbnail": "gravis-eradicator-thumb.jpg",
+    "paintingSheet": "gravis-eradicator-paint-sheet.jpg"
+  }
+}
