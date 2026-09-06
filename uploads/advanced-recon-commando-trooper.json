@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "advanced-recon-commando-trooper",
+  "title": "Advanced Recon Commando Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Republic Special Forces",
+  "assets": {
+    "miniature": "advanced-recon-commando-trooper-mini.jpg",
+    "thumbnail": "advanced-recon-commando-trooper-thumb.jpg",
+    "paintingSheet": "advanced-recon-commando-trooper-paint-sheet.jpg"
+  }
+}
