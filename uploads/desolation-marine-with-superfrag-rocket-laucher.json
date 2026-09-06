@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "desolation-marine-with-superfrag-rocket-laucher",
+  "title": "Desolation Marine with Superfrag Rocket Laucher",
+  "universe": "Warhammer 40,000",
+  "faction": "Adeptus Astartes",
+  "subfaction": "Space Marines",
+  "assets": {
+    "miniature": "desolation-marine-with-superfrag-rocket-laucher-mini.jpg",
+    "thumbnail": "desolation-marine-with-superfrag-rocket-laucher-thumb.jpg",
+    "paintingSheet": "desolation-marine-with-superfrag-rocket-laucher-paint-sheet.jpg"
+  }
+}
