@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "stormtrooper-unit-leader",
+  "title": "Stormtrooper Unit Leader",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Stormtroopers",
+  "assets": {
+    "miniature": "stormtrooper-unit-leader-mini.jpg",
+    "thumbnail": "stormtrooper-unit-leader-thumb.jpg",
+    "paintingSheet": "stormtrooper-unit-leader-paint-sheet.jpg"
+  }
+}
