@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "stormtrooper-riot-control-shield-enforcer-2",
+  "title": "Stormtrooper Riot Control Shield Enforcer #2",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Stormtroopers",
+  "assets": {
+    "miniature": "stormtrooper-riot-control-shield-enforcer-2-mini.jpg",
+    "thumbnail": "stormtrooper-riot-control-shield-enforcer-2-thumb.jpg",
+    "paintingSheet": "stormtrooper-riot-control-shield-enforcer-2-paint-sheet.jpg"
+  }
+}
