@@ -57,19 +57,6 @@
         {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
         {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
       ]
-    },
-    {
-      "id": "imperial-sniper-snowtrooper",
-      "name": "Imperial Sniper Snowtrooper",
-      "universe": "Star Wars",
-      "faction": "Galactic Empire",
-      "subfaction": "Snowtroopers",
-      "description": "Imperial Sniper Snowtrooper miniature and painting reference.",
-      "tags": ["Galactic Empire", "Snowtrooper", "Sniper", "Stormtrooper"],
-      "images": [
-        {"type":"miniature","title":"Miniature","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-mini.jpg"},
-        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-paint-sheet.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-paint-sheet.jpg"}
-      ]
     }
   ]
 }
