@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "rebel-alliance-duros-trooper",
+  "title": "Rebel Alliance Duros Trooper",
+  "universe": "Star Wars",
+  "faction": "Rebel Alliance",
+  "subfaction": "Rebel Troopers",
+  "assets": {
+    "miniature": "rebel-alliance-duros-trooper-mini.jpg",
+    "thumbnail": "rebel-alliance-duros-trooper-thumb.jpg",
+    "paintingSheet": "rebel-alliance-duros-trooper-paint-sheet.jpg"
+  }
+}
