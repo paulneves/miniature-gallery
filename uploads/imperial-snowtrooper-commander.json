@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "imperial-snowtrooper-commander",
+  "title": "Imperial Snowtrooper Commander",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Snowtroopers",
+  "assets": {
+    "miniature": "imperial-snowtrooper-commander-mini.jpg",
+    "thumbnail": "imperial-snowtrooper-commander-thumb.jpg",
+    "paintingSheet": "imperial-snowtrooper-commander-paint-sheet.jpg"
+  }
+}
