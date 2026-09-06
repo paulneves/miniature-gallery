@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "mandalorian-super-commando",
+  "title": "Mandalorian Super Commando",
+  "universe": "Star Wars",
+  "faction": "Mandalorians",
+  "subfaction": "Maul's Shadow Collective",
+  "assets": {
+    "miniature": "mandalorian-super-commando-mini.jpg",
+    "thumbnail": "mandalorian-super-commando-thumb.jpg",
+    "paintingSheet": "mandalorian-super-commando-paint-sheet.jpg"
+  }
+}
