@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "clone-specops-scout-trooper",
+  "title": "Clone SpecOps Scout Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Republic Special Forces",
+  "assets": {
+    "miniature": "clone-specops-scout-trooper-mini.jpg",
+    "thumbnail": "clone-specops-scout-trooper-thumb.jpg",
+    "paintingSheet": "clone-specops-scout-trooper-paint-sheet.jpg"
+  }
+}
