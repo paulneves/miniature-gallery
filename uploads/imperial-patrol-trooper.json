@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "imperial-patrol-trooper",
+  "title": "Imperial Patrol Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Imperial Patrol Troopers",
+  "assets": {
+    "miniature": "imperial-patrol-trooper-mini.jpg",
+    "thumbnail": "imperial-patrol-trooper-thumb.jpg",
+    "paintingSheet": "imperial-patrol-trooper-paint-sheet.jpg"
+  }
+}
