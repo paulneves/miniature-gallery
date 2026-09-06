@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "clone-trooper-commander",
+  "title": "Clone Trooper Commander",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Clone Troopers",
+  "assets": {
+    "miniature": "clone-trooper-commander-mini.jpg",
+    "thumbnail": "clone-trooper-commander-thumb.jpg",
+    "paintingSheet": "clone-trooper-commander-paint-sheet.jpg"
+  }
+}
