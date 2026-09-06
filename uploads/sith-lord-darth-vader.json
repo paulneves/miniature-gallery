@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "sith-lord-darth-vader",
+  "title": "Sith Lord - Darth Vader",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Sith",
+  "assets": {
+    "miniature": "sith-lord-darth-vader-mini.jpg",
+    "thumbnail": "sith-lord-darth-vader-thumb.jpg",
+    "paintingSheet": "sith-lord-darth-vader-paint-sheet.jpg"
+  }
+}
