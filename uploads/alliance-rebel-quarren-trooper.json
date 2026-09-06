@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "alliance-rebel-quarren-trooper",
+  "title": "Alliance Rebel Quarren Trooper",
+  "universe": "Star Wars",
+  "faction": "Rebel Alliance",
+  "subfaction": "Rebel Troopers",
+  "assets": {
+    "miniature": "alliance-rebel-quarren-trooper-mini.jpg",
+    "thumbnail": "alliance-rebel-quarren-trooper-thumb.jpg",
+    "paintingSheet": "alliance-rebel-quarren-trooper-paint-sheet.jpg"
+  }
+}
