@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "jump-pack-vanguard-marine",
+  "title": "Jump Pack Vanguard Marine",
+  "universe": "Warhammer 40,000",
+  "faction": "Adeptus Astartes",
+  "subfaction": "Space Marines",
+  "assets": {
+    "miniature": "jump-pack-vanguard-marine-mini.jpg",
+    "thumbnail": "jump-pack-vanguard-marine-thumb.jpg",
+    "paintingSheet": "jump-pack-vanguard-marine-paint-sheet.jpg"
+  }
+}
