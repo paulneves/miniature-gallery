@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "clone-commando-2",
+  "title": "Clone Commando #2",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Republic Special Forces",
+  "assets": {
+    "miniature": "clone-commando-2-mini.jpg",
+    "thumbnail": "clone-commando-2-thumb.jpg",
+    "paintingSheet": "clone-commando-2-paint-sheet.jpg"
+  }
+}
