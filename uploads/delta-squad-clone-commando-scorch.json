@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "delta-squad-clone-commando-scorch",
+  "title": "Delta Squad Clone Commando Scorch",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Republic Special Forces",
+  "assets": {
+    "miniature": "delta-squad-clone-commando-scorch-mini.jpg",
+    "thumbnail": "delta-squad-clone-commando-scorch-thumb.jpg",
+    "paintingSheet": "delta-squad-clone-commando-scorch-paint-sheet.jpg"
+  }
+}
