@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "rebel-alliance-ishi-tib-trooper",
+  "title": "Rebel Alliance Ishi Tib Trooper",
+  "universe": "Star Wars",
+  "faction": "Rebel Alliance",
+  "subfaction": "Rebel Troopers",
+  "assets": {
+    "miniature": "rebel-alliance-ishi-tib-trooper-mini.jpg",
+    "thumbnail": "rebel-alliance-ishi-tib-trooper-thumb.jpg",
+    "paintingSheet": "rebel-alliance-ishi-tib-trooper-paint-sheet.jpg"
+  }
+}
