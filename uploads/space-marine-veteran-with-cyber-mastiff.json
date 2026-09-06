@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "space-marine-veteran-with-cyber-mastiff",
+  "title": "Space Marine Veteran with Cyber-Mastiff",
+  "universe": "Warhammer 40,000",
+  "faction": "Adeptus Astartes",
+  "subfaction": "Space Marines",
+  "assets": {
+    "miniature": "space-marine-veteran-with-cyber-mastiff-mini.jpg",
+    "thumbnail": "space-marine-veteran-with-cyber-mastiff-thumb.jpg",
+    "paintingSheet": "space-marine-veteran-with-cyber-mastiff-paint-sheet.jpg"
+  }
+}
