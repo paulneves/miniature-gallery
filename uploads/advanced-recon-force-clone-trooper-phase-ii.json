@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "advanced-recon-force-clone-trooper-phase-ii",
+  "title": "Advanced Recon Force Clone Trooper (Phase II)",
+  "universe": "Star Wars",
+  "faction": "Galactic Republic",
+  "subfaction": "Advanced Recon Force Troopers",
+  "assets": {
+    "miniature": "advanced-recon-force-clone-trooper-phase-ii-mini.jpg",
+    "thumbnail": "advanced-recon-force-clone-trooper-phase-ii-thumb.jpg",
+    "paintingSheet": "advanced-recon-force-clone-trooper-phase-ii-paint-sheet.jpg"
+  }
+}
