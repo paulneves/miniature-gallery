@@ -13,18 +13,41 @@
       "faction": "Galactic Empire",
       "subfaction": "Snowtroopers",
       "images": [
-        {
-          "type": "miniature",
-          "title": "Miniature",
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-mini.jpg"
-        },
-        {
-          "type": "painting-sheet",
-          "title": "Painting Sheet",
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-paint-sheet.jpg"
-        }
+        {"type":"miniature","title":"Miniature","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-mini.jpg"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-paint-sheet.jpg"}
+      ]
+    },
+    {
+      "id": "advanced-recon-force-trooper",
+      "name": "Advanced Recon Force Trooper",
+      "universe": "Star Wars",
+      "faction": "Galactic Republic",
+      "subfaction": "Advanced Recon Force Troopers",
+      "images": [
+        {"type":"miniature","title":"Miniature","thumbnail":"images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-thumb.jpg","url":"images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-mini.jpg"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-thumb.jpg","url":"images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-paint-sheet.jpg"}
+      ]
+    },
+    {
+      "id": "imperial-heavy-weapons-snowtrooper",
+      "name": "Imperial Heavy Weapons Snowtrooper",
+      "universe": "Star Wars",
+      "faction": "Galactic Empire",
+      "subfaction": "Snowtroopers",
+      "images": [
+        {"type":"miniature","title":"Miniature","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-mini.jpg"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-paint-sheet.jpg"}
+      ]
+    },
+    {
+      "id": "imperial-snowtrooper-commander",
+      "name": "Imperial Snowtrooper Commander",
+      "universe": "Star Wars",
+      "faction": "Galactic Empire",
+      "subfaction": "Snowtroopers",
+      "images": [
+        {"type":"miniature","title":"Miniature","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-mini.jpg"},
+        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-paint-sheet.jpg"}
       ]
     }
   ]
