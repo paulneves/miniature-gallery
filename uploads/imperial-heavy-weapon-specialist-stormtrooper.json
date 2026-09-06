@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "imperial-heavy-weapon-specialist-stormtrooper",
+  "title": "Imperial Heavy Weapon Specialist Stormtrooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Stormtroopers",
+  "assets": {
+    "miniature": "imperial-heavy-weapon-specialist-stormtrooper-mini.jpg",
+    "thumbnail": "imperial-heavy-weapon-specialist-stormtrooper-thumb.jpg",
+    "paintingSheet": "imperial-heavy-weapon-specialist-stormtrooper-paint-sheet.jpg"
+  }
+}
