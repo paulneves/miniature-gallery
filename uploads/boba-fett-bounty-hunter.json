@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "boba-fett-bounty-hunter",
+  "title": "Boba Fett Bounty Hunter",
+  "universe": "Star Wars",
+  "faction": "Underworld",
+  "subfaction": "Bounty Hunters",
+  "assets": {
+    "miniature": "boba-fett-bounty-hunter-mini.jpg",
+    "thumbnail": "boba-fett-bounty-hunter-thumb.jpg",
+    "paintingSheet": "boba-fett-bounty-hunter-paint-sheet.jpg"
+  }
+}
