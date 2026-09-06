@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "k-2so-droid-2",
+  "title": "K-2SO Droid #2",
+  "universe": "Star Wars",
+  "faction": "Rebel Alliance",
+  "subfaction": "Droids",
+  "assets": {
+    "miniature": "k-2so-droid-2-mini.jpg",
+    "thumbnail": "k-2so-droid-2-thumb.jpg",
+    "paintingSheet": "k-2so-droid-2-paint-sheet.jpg"
+  }
+}
