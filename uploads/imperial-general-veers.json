@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "imperial-general-veers",
+  "title": "Imperial General Veers",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Imperial Officers",
+  "assets": {
+    "miniature": "imperial-general-veers-mini.jpg",
+    "thumbnail": "imperial-general-veers-thumb.jpg",
+    "paintingSheet": "imperial-general-veers-paint-sheet.jpg"
+  }
+}
