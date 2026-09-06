@@ -6,57 +6,10 @@
     "accent": "#d6a84b"
   },
   "miniatures": [
-    {
-      "id": "raptors-primaris-infiltrator",
-      "name": "Primaris Infiltrator",
-      "universe": "Warhammer 40,000",
-      "faction": "Space Marines",
-      "subfaction": "Raptors",
-      "description": "Raptors Primaris Infiltrator miniature and painting reference.",
-      "tags": ["Adeptus Astartes", "Raptors", "Primaris", "Infiltrator"],
-      "images": [
-        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90","link":"https://github.com/paulneves/miniature-gallery","credit":"Demo placeholder"},
-        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
-      ]
-    },
-    {
-      "id": "imperial-fists-primaris-lieutenant",
-      "name": "Primaris Lieutenant",
-      "universe": "Warhammer 40,000",
-      "faction": "Space Marines",
-      "subfaction": "Imperial Fists",
-      "description": "Imperial Fists Primaris Lieutenant miniature and painting reference.",
-      "tags": ["Adeptus Astartes", "Imperial Fists", "Primaris", "Lieutenant"],
-      "images": [
-        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
-        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
-      ]
-    },
-    {
-      "id": "501st-captain-rex",
-      "name": "Captain Rex",
-      "universe": "Star Wars",
-      "faction": "Galactic Republic",
-      "subfaction": "501st Legion",
-      "description": "501st Legion Captain Rex miniature and painting reference.",
-      "tags": ["Clone Trooper", "501st Legion", "Captain Rex", "Galactic Republic"],
-      "images": [
-        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
-        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
-      ]
-    },
-    {
-      "id": "imperial-shoretrooper",
-      "name": "Imperial Shoretrooper",
-      "universe": "Star Wars",
-      "faction": "Galactic Empire",
-      "subfaction": "Shoretroopers",
-      "description": "Imperial Shoretrooper miniature and painting reference.",
-      "tags": ["Galactic Empire", "Shoretrooper", "Stormtrooper"],
-      "images": [
-        {"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},
-        {"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}
-      ]
-    }
+    {"id":"raptors-primaris-infiltrator","name":"Primaris Infiltrator","universe":"Warhammer 40,000","faction":"Space Marines","subfaction":"Raptors","description":"Raptors Primaris Infiltrator miniature and painting reference.","tags":["Adeptus Astartes","Raptors","Primaris","Infiltrator"],"images":[{"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90","link":"https://github.com/paulneves/miniature-gallery","credit":"Demo placeholder"},{"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}]},
+    {"id":"imperial-fists-primaris-lieutenant","name":"Primaris Lieutenant","universe":"Warhammer 40,000","faction":"Space Marines","subfaction":"Imperial Fists","description":"Imperial Fists Primaris Lieutenant miniature and painting reference.","tags":["Adeptus Astartes","Imperial Fists","Primaris","Lieutenant"],"images":[{"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},{"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}]},
+    {"id":"501st-captain-rex","name":"Captain Rex","universe":"Star Wars","faction":"Galactic Republic","subfaction":"501st Legion","description":"501st Legion Captain Rex miniature and painting reference.","tags":["Clone Trooper","501st Legion","Captain Rex","Galactic Republic"],"images":[{"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},{"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}]},
+    {"id":"imperial-shoretrooper","name":"Imperial Shoretrooper","universe":"Star Wars","faction":"Galactic Empire","subfaction":"Shoretroopers","description":"Imperial Shoretrooper miniature and painting reference.","tags":["Galactic Empire","Shoretrooper","Stormtrooper"],"images":[{"type":"miniature","title":"Miniature","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"},{"type":"painting-sheet","title":"Painting Sheet","thumbnail":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=360&q=65","url":"https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=90"}]},
+    {"id":"imperial-sniper-snowtrooper","name":"Imperial Sniper Snowtrooper","universe":"Star Wars","faction":"Galactic Empire","subfaction":"Snowtroopers","images":[{"type":"miniature","title":"Miniature","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-mini.jpg"},{"type":"painting-sheet","title":"Painting Sheet","thumbnail":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg","url":"images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-paint-sheet.jpg"}]}
   ]
 }
