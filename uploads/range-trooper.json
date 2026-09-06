@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "range-trooper",
+  "title": "Range Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Range Troopers",
+  "assets": {
+    "miniature": "range-trooper-mini.jpg",
+    "thumbnail": "range-trooper-thumb.jpg",
+    "paintingSheet": "range-trooper-paint-sheet.jpg"
+  }
+}
