@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "space-marine-primaris-librarian",
+  "title": "Space Marine Primaris Librarian",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "space-marines",
+  "assets": {
+    "mini": "space-marine-primaris-librarian-mini.jpg",
+    "thumb": "space-marine-primaris-librarian-thumb.jpg",
+    "paintSheet": "space-marine-primaris-librarian-paint-sheet.jpg"
+  }
+}
