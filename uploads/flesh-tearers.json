@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "flesh-tearers",
+  "title": "Flesh Tearers",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "flesh-tearers",
+  "assets": {
+    "mini": "flesh-tearers-mini.jpg",
+    "thumb": "flesh-tearers-thumb.jpg",
+    "paintSheet": "flesh-tearers-paint-sheet.jpg"
+  }
+}
