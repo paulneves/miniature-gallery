@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "iron-hands-intercessor",
+  "title": "Iron Hands Intercessor",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "iron-hands",
+  "assets": {
+    "mini": "iron-hands-intercessor-mini.jpg",
+    "thumb": "iron-hands-intercessor-thumb.jpg",
+    "paintSheet": "iron-hands-intercessor-paint-sheet.jpg"
+  }
+}
