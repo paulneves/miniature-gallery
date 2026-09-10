@@ -6,8 +6,8 @@
   "faction": "adeptus-astartes",
   "subfaction": "crimson-fists",
   "assets": {
-    "mini": "crimson-fists-intercessor-mini.jpg",
-    "thumb": "crimson-fists-intercessor-thumb.jpg",
-    "paintSheet": "crimson-fists-intercessor-paint-sheet.jpg"
+    "miniature": "crimson-fists-intercessor-mini.jpg",
+    "thumbnail": "crimson-fists-intercessor-thumb.jpg",
+    "paintingSheet": "crimson-fists-intercessor-paint-sheet.jpg"
   }
 }
