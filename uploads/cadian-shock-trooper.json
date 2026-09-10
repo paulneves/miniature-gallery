@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "cadian-shock-trooper",
+  "title": "Cadian Shock Trooper",
+  "universe": "warhammer-40000",
+  "faction": "astra-militarum",
+  "subfaction": "cadian",
+  "assets": {
+    "mini": "cadian-shock-trooper-mini.jpg",
+    "thumb": "cadian-shock-trooper-thumb.jpg",
+    "paintSheet": "cadian-shock-trooper-paint-sheet.jpg"
+  }
+}
