@@ -6,8 +6,8 @@
   "faction": "astra-militarum",
   "subfaction": "death-korps-of-krieg",
   "assets": {
-    "mini": "death-korps-kill-team-2-mini.jpg",
-    "thumb": "death-korps-kill-team-2-thumb.jpg",
-    "paintSheet": "death-korps-kill-team-2-paint-sheet.jpg"
+    "miniature": "death-korps-kill-team-2-mini.jpg",
+    "thumbnail": "death-korps-kill-team-2-thumb.jpg",
+    "paintingSheet": "death-korps-kill-team-2-paint-sheet.jpg"
   }
 }
