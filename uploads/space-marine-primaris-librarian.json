@@ -6,8 +6,8 @@
   "faction": "adeptus-astartes",
   "subfaction": "space-marines",
   "assets": {
-    "mini": "space-marine-primaris-librarian-mini.jpg",
-    "thumb": "space-marine-primaris-librarian-thumb.jpg",
-    "paintSheet": "space-marine-primaris-librarian-paint-sheet.jpg"
+    "miniature": "space-marine-primaris-librarian-mini.jpg",
+    "thumbnail": "space-marine-primaris-librarian-thumb.jpg",
+    "paintingSheet": "space-marine-primaris-librarian-paint-sheet.jpg"
   }
 }
