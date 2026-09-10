@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "crimson-fists-intercessor",
+  "title": "Crimson Fists Intercessor",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "crimson-fists",
+  "assets": {
+    "mini": "crimson-fists-intercessor-mini.jpg",
+    "thumb": "crimson-fists-intercessor-thumb.jpg",
+    "paintSheet": "crimson-fists-intercessor-paint-sheet.jpg"
+  }
+}
