@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "raptors-phobos-lieutenant",
+  "title": "Raptors Phobos Lieutenant",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "raptors",
+  "assets": {
+    "miniature": "raptors-phobos-lieutenant-mini.jpg",
+    "thumbnail": "raptors-phobos-lieutenant-thumb.jpg",
+    "paintingSheet": "raptors-phobos-lieutenant-paint-sheet.jpg"
+  }
+}
