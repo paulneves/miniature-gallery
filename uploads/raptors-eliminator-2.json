@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "raptors-eliminator-2",
+  "title": "Raptors Eliminator #2",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "raptors",
+  "assets": {
+    "miniature": "raptors-eliminator-2-mini.jpg",
+    "thumbnail": "raptors-eliminator-2-thumb.jpg",
+    "paintingSheet": "raptors-eliminator-2-paint-sheet.jpg"
+  }
+}
