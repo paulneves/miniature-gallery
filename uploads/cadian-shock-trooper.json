@@ -6,8 +6,8 @@
   "faction": "astra-militarum",
   "subfaction": "cadian",
   "assets": {
-    "mini": "cadian-shock-trooper-mini.jpg",
-    "thumb": "cadian-shock-trooper-thumb.jpg",
-    "paintSheet": "cadian-shock-trooper-paint-sheet.jpg"
+    "miniature": "cadian-shock-trooper-mini.jpg",
+    "thumbnail": "cadian-shock-trooper-thumb.jpg",
+    "paintingSheet": "cadian-shock-trooper-paint-sheet.jpg"
   }
 }
