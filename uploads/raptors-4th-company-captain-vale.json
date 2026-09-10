@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "raptors-4th-company-captain-vale",
+  "title": "Raptors 4th Company Captain Vale",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "raptors",
+  "assets": {
+    "mini": "raptors-4th-company-captain-vale-mini.jpg",
+    "thumb": "raptors-4th-company-captain-vale-thumb.jpg",
+    "paintSheet": "raptors-4th-company-captain-vale-paint-sheet.jpg"
+  }
+}
