@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "ork-kommando-nob",
+  "title": "Ork Kommando Nob",
+  "universe": "warhammer-40000",
+  "faction": "orks",
+  "subfaction": "kommandos",
+  "assets": {
+    "mini": "ork-kommando-nob-mini.jpg",
+    "thumb": "ork-kommando-nob-thumb.jpg",
+    "paintSheet": "ork-kommando-nob-paint-sheet.jpg"
+  }
+}
