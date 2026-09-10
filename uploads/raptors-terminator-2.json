@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "raptors-terminator-2",
+  "title": "Raptors Terminator #2",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "raptors",
+  "assets": {
+    "miniature": "raptors-terminator-2-mini.jpg",
+    "thumbnail": "raptors-terminator-2-thumb.jpg",
+    "paintingSheet": "raptors-terminator-2-paint-sheet.jpg"
+  }
+}
