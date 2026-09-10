@@ -6,8 +6,8 @@
   "faction": "adeptus-astartes",
   "subfaction": "flesh-tearers",
   "assets": {
-    "mini": "flesh-tearers-mini.jpg",
-    "thumb": "flesh-tearers-thumb.jpg",
-    "paintSheet": "flesh-tearers-paint-sheet.jpg"
+    "miniature": "flesh-tearers-mini.jpg",
+    "thumbnail": "flesh-tearers-thumb.jpg",
+    "paintingSheet": "flesh-tearers-paint-sheet.jpg"
   }
 }
