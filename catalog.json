@@ -1557,6 +1557,234 @@
       "name": "Space Marine Primaris Librarian",
       "subfaction": "Space Marines",
       "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-eliminator-2",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Eliminator #2",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-eliminator-3",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Eliminator #3",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-eliminator",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Eliminator",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-judiciar",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Judiciar",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-phobos-captain",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Phobos Captain",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-phobos-librarian",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Phobos Librarian",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-phobos-lieutenant",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Phobos Lieutenant",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-terminator-2",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Terminator #2",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raptors-terminator",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raptors Terminator",
+      "subfaction": "Raptors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "raven-guard-intercessor",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-paint-sheet.jpg"
+        }
+      ],
+      "name": "Raven Guard Intercessor",
+      "subfaction": "Raven Guard",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "retributor-space-marine",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-paint-sheet.jpg"
+        }
+      ],
+      "name": "Retributor Space Marine",
+      "subfaction": "Retributors",
+      "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Adeptus Astartes",
+      "id": "salamanders-intercessor",
+      "images": [
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-thumb.jpg",
+          "type": "miniature",
+          "url": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-mini.jpg"
+        },
+        {
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-paint-sheet.jpg"
+        }
+      ],
+      "name": "Salamanders Intercessor",
+      "subfaction": "Salamanders",
+      "universe": "Warhammer 40,000"
     }
   ],
   "site": {
