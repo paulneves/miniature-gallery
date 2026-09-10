@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "raptors-judiciar",
+  "title": "Raptors Judiciar",
+  "universe": "warhammer-40000",
+  "faction": "adeptus-astartes",
+  "subfaction": "raptors",
+  "assets": {
+    "miniature": "raptors-judiciar-mini.jpg",
+    "thumbnail": "raptors-judiciar-thumb.jpg",
+    "paintingSheet": "raptors-judiciar-paint-sheet.jpg"
+  }
+}
