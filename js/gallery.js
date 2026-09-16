@@ -3,29 +3,16 @@ const $=s=>document.querySelector(s);
 const gallery=$('#gallery'),search=$('#search'),universe=$('#universe'),faction=$('#faction'),subfaction=$('#subfaction'),paintBrand=$('#paint-brand'),viewer=$('#viewer');
 const unique=arr=>[...new Set(arr.filter(Boolean))].sort((a,b)=>a.localeCompare(b));
 const cleanTitle=title=>(title||'').replace(/\s+#(?:2|3|4|5)\s*$/,'').trim();
+const cleanAssetUrl=url=>(url||'').replace(/-(?:2|3|4|5)-(?=(?:mini|thumb|paint-sheet|detail-\d+)\.jpg$)/,'-');
 
 function optionList(el,values,label,current=''){
   el.innerHTML=`<option value="">All ${label}</option>`+values.map(v=>`<option ${v===current?'selected':''}>${v}</option>`).join('');
 }
 
-function brandOf(m){
-  // All catalogue records created before Paint Brand support used AK Interactive.
-  // New records should store paintBrand explicitly; this fallback keeps legacy
-  // entries correctly classified without rewriting historical records.
-  return m.paintBrand||'AK Interactive';
-}
-
-function imageOf(m){
-  return (m.images||[]).find(i=>i.type==='miniature')||(m.images||[])[0]||{url:''};
-}
-
-function thumbnailUrl(im){
-  return im.thumbnail||im.thumb||im.url||'';
-}
-
-function fullUrl(im){
-  return im.url||im.full||im.thumbnail||im.thumb||'';
-}
+function brandOf(m){return m.paintBrand||'AK Interactive';}
+function imageOf(m){return (m.images||[]).find(i=>i.type==='miniature')||(m.images||[])[0]||{url:''};}
+function thumbnailUrl(im){return cleanAssetUrl(im.thumbnail||im.thumb||im.url||'');}
+function fullUrl(im){return cleanAssetUrl(im.url||im.full||im.thumbnail||im.thumb||'');}
 
 function refreshFilters(){
   const u=universe.value,f=faction.value,s=subfaction.value,p=paintBrand.value;
@@ -51,15 +38,11 @@ function render(){
     const im=imageOf(m),title=cleanTitle(m.name);
     return `<article class="card" data-id="${m.id}" tabindex="0"><div class="thumb"><img loading="lazy" decoding="async" src="${thumbnailUrl(im)}" alt="${title}" onerror="this.style.opacity='.18'"></div><div class="card-body"><div class="path">${[m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).join(' · ')}</div><h2>${title}</h2><span class="badge">${(m.images||[]).length} image${(m.images||[]).length===1?'':'s'}</span></div></article>`;
   }).join('');
-  gallery.querySelectorAll('.card').forEach(c=>{
-    c.onclick=()=>openItem(c.dataset.id);
-    c.onkeydown=e=>{if(e.key==='Enter')openItem(c.dataset.id)};
-  });
+  gallery.querySelectorAll('.card').forEach(c=>{c.onclick=()=>openItem(c.dataset.id);c.onkeydown=e=>{if(e.key==='Enter')openItem(c.dataset.id)}});
 }
 
 function openItem(id){
-  const m=catalog.miniatures.find(x=>x.id===id);
-  if(!m)return;
+  const m=catalog.miniatures.find(x=>x.id===id);if(!m)return;
   $('#viewer-title').textContent=cleanTitle(m.name);
   $('#viewer-path').innerHTML=[m.id,m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).map(v=>`<div>${v}</div>`).join('');
   $('#viewer-description').textContent=m.description||'';
@@ -67,39 +50,21 @@ function openItem(id){
   const tabs=$('#image-tabs');
   tabs.innerHTML=(m.images||[]).map((im,i)=>`<button data-i="${i}">${im.title||im.type||`Image ${i+1}`}</button>`).join('');
   tabs.querySelectorAll('button').forEach(b=>b.onclick=()=>showImage(m,+b.dataset.i));
-  showImage(m,0);
-  viewer.showModal();
+  showImage(m,0);viewer.showModal();
 }
 
 function showImage(m,i){
-  const im=(m.images||[])[i];
-  if(!im)return;
-  const viewerImage=$('#viewer-image');
-  const url=fullUrl(im);
-  viewerImage.src=url;
-  viewerImage.alt=im.title||cleanTitle(m.name);
-  viewerImage.title='Open image in new window';
-  viewerImage.style.cursor='zoom-in';
+  const im=(m.images||[])[i];if(!im)return;
+  const viewerImage=$('#viewer-image'),url=fullUrl(im);
+  viewerImage.src=url;viewerImage.alt=im.title||cleanTitle(m.name);
+  viewerImage.title='Open image in new window';viewerImage.style.cursor='zoom-in';
   viewerImage.onclick=()=>window.open(url,'_blank','noopener,noreferrer');
   document.querySelectorAll('#image-tabs button').forEach((b,n)=>b.classList.toggle('active',n===i));
 }
 
 [universe,faction,subfaction,paintBrand].forEach(el=>el.addEventListener('change',()=>{refreshFilters();render()}));
-search.addEventListener('input',render);
-$('#close').onclick=()=>viewer.close();
-viewer.addEventListener('click',e=>{if(e.target===viewer)viewer.close()});
+search.addEventListener('input',render);$('#close').onclick=()=>viewer.close();viewer.addEventListener('click',e=>{if(e.target===viewer)viewer.close()});
 
-fetch('catalog.json',{cache:'no-store'})
-  .then(r=>{if(!r.ok)throw new Error('catalog.json not found');return r.json()})
-  .then(data=>{
-    catalog=data;
-    const site=data.site||{};
-    $('#site-title').textContent=site.title||'Miniature Painting Collection';
-    $('#site-subtitle').textContent=site.subtitle||'';
-    $('#eyebrow').textContent=site.eyebrow||'COLLECTION';
-    document.title=site.title||document.title;
-    if(site.accent)document.documentElement.style.setProperty('--accent',site.accent);
-    refreshFilters();
-    render();
-  })
-  .catch(err=>{gallery.innerHTML=`<p>Unable to load catalogue: ${err.message}</p>`});
+fetch('catalog.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('catalog.json not found');return r.json()}).then(data=>{
+  catalog=data;const site=data.site||{};$('#site-title').textContent=site.title||'Miniature Painting Collection';$('#site-subtitle').textContent=site.subtitle||'';$('#eyebrow').textContent=site.eyebrow||'COLLECTION';document.title=site.title||document.title;if(site.accent)document.documentElement.style.setProperty('--accent',site.accent);refreshFilters();render();
+}).catch(err=>{gallery.innerHTML=`<p>Unable to load catalogue: ${err.message}</p>`});
