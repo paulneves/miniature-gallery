@@ -74,8 +74,12 @@ function showImage(m,i){
   const im=(m.images||[])[i];
   if(!im)return;
   const viewerImage=$('#viewer-image');
-  viewerImage.src=fullUrl(im);
+  const url=fullUrl(im);
+  viewerImage.src=url;
   viewerImage.alt=im.title||m.name;
+  viewerImage.title='Open image in new window';
+  viewerImage.style.cursor='zoom-in';
+  viewerImage.onclick=()=>window.open(url,'_blank','noopener,noreferrer');
   document.querySelectorAll('#image-tabs button').forEach((b,n)=>b.classList.toggle('active',n===i));
 }
 
