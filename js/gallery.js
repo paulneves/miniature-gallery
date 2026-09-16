@@ -2,6 +2,7 @@ let catalog={miniatures:[]};
 const $=s=>document.querySelector(s);
 const gallery=$('#gallery'),search=$('#search'),universe=$('#universe'),faction=$('#faction'),subfaction=$('#subfaction'),paintBrand=$('#paint-brand'),viewer=$('#viewer');
 const unique=arr=>[...new Set(arr.filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+const cleanTitle=title=>(title||'').replace(/\s+#(?:2|3|4|5)\s*$/,'').trim();
 
 function optionList(el,values,label,current=''){
   el.innerHTML=`<option value="">All ${label}</option>`+values.map(v=>`<option ${v===current?'selected':''}>${v}</option>`).join('');
@@ -39,7 +40,7 @@ function refreshFilters(){
 
 function filtered(){
   const q=search.value.trim().toLowerCase();
-  return catalog.miniatures.filter(m=>(!universe.value||m.universe===universe.value)&&(!faction.value||m.faction===faction.value)&&(!subfaction.value||m.subfaction===subfaction.value)&&(!paintBrand.value||brandOf(m)===paintBrand.value)&&(!q||[m.name,m.universe,m.faction,m.subfaction,brandOf(m),m.description,...(m.tags||[])].filter(Boolean).join(' ').toLowerCase().includes(q)));
+  return catalog.miniatures.filter(m=>(!universe.value||m.universe===universe.value)&&(!faction.value||m.faction===faction.value)&&(!subfaction.value||m.subfaction===subfaction.value)&&(!paintBrand.value||brandOf(m)===paintBrand.value)&&(!q||[cleanTitle(m.name),m.universe,m.faction,m.subfaction,brandOf(m),m.description,...(m.tags||[])].filter(Boolean).join(' ').toLowerCase().includes(q)));
 }
 
 function render(){
@@ -47,8 +48,8 @@ function render(){
   $('#count').textContent=`${items.length} miniature${items.length===1?'':'s'}`;
   $('#empty').hidden=items.length>0;
   gallery.innerHTML=items.map(m=>{
-    const im=imageOf(m);
-    return `<article class="card" data-id="${m.id}" tabindex="0"><div class="thumb"><img loading="lazy" decoding="async" src="${thumbnailUrl(im)}" alt="${m.name}" onerror="this.style.opacity='.18'"></div><div class="card-body"><div class="path">${[m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).join(' · ')}</div><h2>${m.name}</h2><span class="badge">${(m.images||[]).length} image${(m.images||[]).length===1?'':'s'}</span></div></article>`;
+    const im=imageOf(m),title=cleanTitle(m.name);
+    return `<article class="card" data-id="${m.id}" tabindex="0"><div class="thumb"><img loading="lazy" decoding="async" src="${thumbnailUrl(im)}" alt="${title}" onerror="this.style.opacity='.18'"></div><div class="card-body"><div class="path">${[m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).join(' · ')}</div><h2>${title}</h2><span class="badge">${(m.images||[]).length} image${(m.images||[]).length===1?'':'s'}</span></div></article>`;
   }).join('');
   gallery.querySelectorAll('.card').forEach(c=>{
     c.onclick=()=>openItem(c.dataset.id);
@@ -59,7 +60,7 @@ function render(){
 function openItem(id){
   const m=catalog.miniatures.find(x=>x.id===id);
   if(!m)return;
-  $('#viewer-title').textContent=m.name;
+  $('#viewer-title').textContent=cleanTitle(m.name);
   $('#viewer-path').innerHTML=[m.id,m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).map(v=>`<div>${v}</div>`).join('');
   $('#viewer-description').textContent=m.description||'';
   $('#viewer-tags').innerHTML=(m.tags||[]).map(t=>`<span>${t}</span>`).join('');
@@ -76,7 +77,7 @@ function showImage(m,i){
   const viewerImage=$('#viewer-image');
   const url=fullUrl(im);
   viewerImage.src=url;
-  viewerImage.alt=im.title||m.name;
+  viewerImage.alt=im.title||cleanTitle(m.name);
   viewerImage.title='Open image in new window';
   viewerImage.style.cursor='zoom-in';
   viewerImage.onclick=()=>window.open(url,'_blank','noopener,noreferrer');
