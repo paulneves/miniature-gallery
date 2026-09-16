@@ -60,7 +60,7 @@ function openItem(id){
   const m=catalog.miniatures.find(x=>x.id===id);
   if(!m)return;
   $('#viewer-title').textContent=m.name;
-  $('#viewer-path').textContent=[m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).join(' / ');
+  $('#viewer-path').textContent=[`ID: ${m.id}`,m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).join(' / ');
   $('#viewer-description').textContent=m.description||'';
   $('#viewer-tags').innerHTML=(m.tags||[]).map(t=>`<span>${t}</span>`).join('');
   const tabs=$('#image-tabs');

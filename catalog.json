@@ -2,17 +2,17 @@
   "miniatures": [
     {
       "faction": "Galactic Empire",
-      "id": "imperial-sniper-snowtrooper",
+      "id": "SW-0001",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/SW-0001-imperial-sniper-snowtrooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/snowtroopers/SW-0001-imperial-sniper-snowtrooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/SW-0001-imperial-sniper-snowtrooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-sniper-snowtrooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/snowtroopers/SW-0001-imperial-sniper-snowtrooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Sniper Snowtrooper",
@@ -21,17 +21,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "advanced-recon-force-trooper",
+      "id": "SW-0002",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0002-advanced-recon-force-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0002-advanced-recon-force-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0002-advanced-recon-force-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0002-advanced-recon-force-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Advanced Recon Force Trooper",
@@ -40,17 +40,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-heavy-weapons-snowtrooper",
+      "id": "SW-0003",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/SW-0003-imperial-heavy-weapons-snowtrooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/snowtroopers/SW-0003-imperial-heavy-weapons-snowtrooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/SW-0003-imperial-heavy-weapons-snowtrooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-heavy-weapons-snowtrooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/snowtroopers/SW-0003-imperial-heavy-weapons-snowtrooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Heavy Weapons Snowtrooper",
@@ -59,17 +59,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-snowtrooper-commander",
+      "id": "SW-0004",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/SW-0004-imperial-snowtrooper-commander-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-mini.jpg"
+          "url": "images/star-wars/galactic-empire/snowtroopers/SW-0004-imperial-snowtrooper-commander-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/snowtroopers/SW-0004-imperial-snowtrooper-commander-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/snowtroopers/imperial-snowtrooper-commander-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/snowtroopers/SW-0004-imperial-snowtrooper-commander-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Snowtrooper Commander",
@@ -78,17 +78,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "alliance-rebel-quarren-trooper",
+      "id": "SW-0005",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-quarren-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0005-alliance-rebel-quarren-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-quarren-trooper-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0005-alliance-rebel-quarren-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-quarren-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0005-alliance-rebel-quarren-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-quarren-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0005-alliance-rebel-quarren-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Alliance Rebel Quarren Trooper",
@@ -97,17 +97,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "alliance-rebel-twilek-trooper",
+      "id": "SW-0006",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-twilek-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0006-alliance-rebel-twilek-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-twilek-trooper-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0006-alliance-rebel-twilek-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-twilek-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0006-alliance-rebel-twilek-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-twilek-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0006-alliance-rebel-twilek-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Alliance Rebel Twi'lek Trooper",
@@ -116,17 +116,17 @@
     },
     {
       "faction": "Underworld",
-      "id": "boba-fett-bounty-hunter",
+      "id": "SW-0007",
       "images": [
         {
-          "thumbnail": "images/star-wars/underworld/bounty-hunters/boba-fett-bounty-hunter-thumb.jpg",
+          "thumbnail": "images/star-wars/underworld/bounty-hunters/SW-0007-boba-fett-bounty-hunter-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/underworld/bounty-hunters/boba-fett-bounty-hunter-mini.jpg"
+          "url": "images/star-wars/underworld/bounty-hunters/SW-0007-boba-fett-bounty-hunter-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/underworld/bounty-hunters/boba-fett-bounty-hunter-thumb.jpg",
+          "thumbnail": "images/star-wars/underworld/bounty-hunters/SW-0007-boba-fett-bounty-hunter-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/underworld/bounty-hunters/boba-fett-bounty-hunter-paint-sheet.jpg"
+          "url": "images/star-wars/underworld/bounty-hunters/SW-0007-boba-fett-bounty-hunter-paint-sheet.jpg"
         }
       ],
       "name": "Boba Fett Bounty Hunter",
@@ -135,17 +135,17 @@
     },
     {
       "faction": "Bounty Hunters",
-      "id": "boba-fett-nomad-bounty-hunter",
+      "id": "SW-0008",
       "images": [
         {
-          "thumbnail": "images/star-wars/bounty-hunters/tatooine-outer-rim/boba-fett-nomad-bounty-hunter-thumb.jpg",
+          "thumbnail": "images/star-wars/bounty-hunters/tatooine-outer-rim/SW-0008-boba-fett-nomad-bounty-hunter-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/bounty-hunters/tatooine-outer-rim/boba-fett-nomad-bounty-hunter-mini.jpg"
+          "url": "images/star-wars/bounty-hunters/tatooine-outer-rim/SW-0008-boba-fett-nomad-bounty-hunter-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/bounty-hunters/tatooine-outer-rim/boba-fett-nomad-bounty-hunter-thumb.jpg",
+          "thumbnail": "images/star-wars/bounty-hunters/tatooine-outer-rim/SW-0008-boba-fett-nomad-bounty-hunter-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/bounty-hunters/tatooine-outer-rim/boba-fett-nomad-bounty-hunter-paint-sheet.jpg"
+          "url": "images/star-wars/bounty-hunters/tatooine-outer-rim/SW-0008-boba-fett-nomad-bounty-hunter-paint-sheet.jpg"
         }
       ],
       "name": "Boba Fett Nomad Bounty Hunter",
@@ -154,17 +154,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-commando",
+      "id": "SW-0009",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0009-clone-commando-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-mini.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0009-clone-commando-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0009-clone-commando-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0009-clone-commando-paint-sheet.jpg"
         }
       ],
       "name": "Clone Commando",
@@ -173,17 +173,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-specops-scout-trooper",
+      "id": "SW-0010",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/clone-specops-scout-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0010-clone-specops-scout-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/clone-specops-scout-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0010-clone-specops-scout-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/clone-specops-scout-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0010-clone-specops-scout-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/clone-specops-scout-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0010-clone-specops-scout-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Clone SpecOps Scout Trooper",
@@ -192,17 +192,17 @@
     },
     {
       "faction": "Jedi Order",
-      "id": "grand-jedi-master-yoda",
+      "id": "SW-0011",
       "images": [
         {
-          "thumbnail": "images/star-wars/jedi-order/jedi-masters/grand-jedi-master-yoda-thumb.jpg",
+          "thumbnail": "images/star-wars/jedi-order/jedi-masters/SW-0011-grand-jedi-master-yoda-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/jedi-order/jedi-masters/grand-jedi-master-yoda-mini.jpg"
+          "url": "images/star-wars/jedi-order/jedi-masters/SW-0011-grand-jedi-master-yoda-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/jedi-order/jedi-masters/grand-jedi-master-yoda-thumb.jpg",
+          "thumbnail": "images/star-wars/jedi-order/jedi-masters/SW-0011-grand-jedi-master-yoda-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/jedi-order/jedi-masters/grand-jedi-master-yoda-paint-sheet.jpg"
+          "url": "images/star-wars/jedi-order/jedi-masters/SW-0011-grand-jedi-master-yoda-paint-sheet.jpg"
         }
       ],
       "name": "Grand Jedi Master Yoda",
@@ -211,17 +211,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-general-veers",
+      "id": "SW-0012",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/imperial-officers/imperial-general-veers-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/imperial-officers/SW-0012-imperial-general-veers-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/imperial-officers/imperial-general-veers-mini.jpg"
+          "url": "images/star-wars/galactic-empire/imperial-officers/SW-0012-imperial-general-veers-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/imperial-officers/imperial-general-veers-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/imperial-officers/SW-0012-imperial-general-veers-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/imperial-officers/imperial-general-veers-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/imperial-officers/SW-0012-imperial-general-veers-paint-sheet.jpg"
         }
       ],
       "name": "Imperial General Veers",
@@ -230,17 +230,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-heavy-weapon-specialist-stormtrooper",
+      "id": "SW-0013",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapon-specialist-stormtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0013-imperial-heavy-weapon-specialist-stormtrooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapon-specialist-stormtrooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0013-imperial-heavy-weapon-specialist-stormtrooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapon-specialist-stormtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0013-imperial-heavy-weapon-specialist-stormtrooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapon-specialist-stormtrooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0013-imperial-heavy-weapon-specialist-stormtrooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Heavy Weapon Specialist Stormtrooper",
@@ -249,17 +249,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-patrol-trooper",
+      "id": "SW-0014",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/imperial-patrol-troopers/imperial-patrol-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/imperial-patrol-troopers/SW-0014-imperial-patrol-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/imperial-patrol-troopers/imperial-patrol-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/imperial-patrol-troopers/SW-0014-imperial-patrol-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/imperial-patrol-troopers/imperial-patrol-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/imperial-patrol-troopers/SW-0014-imperial-patrol-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/imperial-patrol-troopers/imperial-patrol-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/imperial-patrol-troopers/SW-0014-imperial-patrol-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Patrol Trooper",
@@ -268,17 +268,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "k-2so-droid-2",
+      "id": "SW-0015",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/droids/k-2so-droid-2-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/droids/SW-0015-k-2so-droid-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/droids/k-2so-droid-2-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/droids/SW-0015-k-2so-droid-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/droids/k-2so-droid-2-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/droids/SW-0015-k-2so-droid-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/droids/k-2so-droid-2-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/droids/SW-0015-k-2so-droid-2-paint-sheet.jpg"
         }
       ],
       "name": "K-2SO Droid #2",
@@ -287,17 +287,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "k-2so-droid",
+      "id": "SW-0016",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/droids/k-2so-droid-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/droids/SW-0016-k-2so-droid-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/droids/k-2so-droid-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/droids/SW-0016-k-2so-droid-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/droids/k-2so-droid-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/droids/SW-0016-k-2so-droid-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/droids/k-2so-droid-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/droids/SW-0016-k-2so-droid-paint-sheet.jpg"
         }
       ],
       "name": "K-2SO Droid",
@@ -306,17 +306,17 @@
     },
     {
       "faction": "Mandalorians",
-      "id": "mandalorian-super-commando",
+      "id": "SW-0017",
       "images": [
         {
-          "thumbnail": "images/star-wars/mandalorians/mauls-shadow-collective/mandalorian-super-commando-thumb.jpg",
+          "thumbnail": "images/star-wars/mandalorians/mauls-shadow-collective/SW-0017-mandalorian-super-commando-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/mandalorians/mauls-shadow-collective/mandalorian-super-commando-mini.jpg"
+          "url": "images/star-wars/mandalorians/mauls-shadow-collective/SW-0017-mandalorian-super-commando-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/mandalorians/mauls-shadow-collective/mandalorian-super-commando-thumb.jpg",
+          "thumbnail": "images/star-wars/mandalorians/mauls-shadow-collective/SW-0017-mandalorian-super-commando-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/mandalorians/mauls-shadow-collective/mandalorian-super-commando-paint-sheet.jpg"
+          "url": "images/star-wars/mandalorians/mauls-shadow-collective/SW-0017-mandalorian-super-commando-paint-sheet.jpg"
         }
       ],
       "name": "Mandalorian Super Commando",
@@ -325,17 +325,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "mandalorian-warrior-sabine-wren",
+      "id": "SW-0018",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/mandalorians/mandalorian-warrior-sabine-wren-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/mandalorians/SW-0018-mandalorian-warrior-sabine-wren-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/mandalorians/mandalorian-warrior-sabine-wren-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/mandalorians/SW-0018-mandalorian-warrior-sabine-wren-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/mandalorians/mandalorian-warrior-sabine-wren-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/mandalorians/SW-0018-mandalorian-warrior-sabine-wren-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/mandalorians/mandalorian-warrior-sabine-wren-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/mandalorians/SW-0018-mandalorian-warrior-sabine-wren-paint-sheet.jpg"
         }
       ],
       "name": "Mandalorian Warrior - Sabine Wren",
@@ -344,17 +344,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "sith-lord-darth-vader",
+      "id": "SW-0019",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/sith/sith-lord-darth-vader-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/sith/SW-0019-sith-lord-darth-vader-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/sith/sith-lord-darth-vader-mini.jpg"
+          "url": "images/star-wars/galactic-empire/sith/SW-0019-sith-lord-darth-vader-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/sith/sith-lord-darth-vader-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/sith/SW-0019-sith-lord-darth-vader-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/sith/sith-lord-darth-vader-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/sith/SW-0019-sith-lord-darth-vader-paint-sheet.jpg"
         }
       ],
       "name": "Sith Lord - Darth Vader",
@@ -363,17 +363,17 @@
     },
     {
       "faction": "The Force Unleashed",
-      "id": "starkiller-galen-marek",
+      "id": "SW-0020",
       "images": [
         {
-          "thumbnail": "images/star-wars/the-force-unleashed/starkiller/starkiller-galen-marek-thumb.jpg",
+          "thumbnail": "images/star-wars/the-force-unleashed/starkiller/SW-0020-starkiller-galen-marek-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/the-force-unleashed/starkiller/starkiller-galen-marek-mini.jpg"
+          "url": "images/star-wars/the-force-unleashed/starkiller/SW-0020-starkiller-galen-marek-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/the-force-unleashed/starkiller/starkiller-galen-marek-thumb.jpg",
+          "thumbnail": "images/star-wars/the-force-unleashed/starkiller/SW-0020-starkiller-galen-marek-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/the-force-unleashed/starkiller/starkiller-galen-marek-paint-sheet.jpg"
+          "url": "images/star-wars/the-force-unleashed/starkiller/SW-0020-starkiller-galen-marek-paint-sheet.jpg"
         }
       ],
       "name": "Starkiller Galen Marek",
@@ -382,17 +382,17 @@
     },
     {
       "faction": "Mandalorians",
-      "id": "the-mandalorian-din-djarin",
+      "id": "SW-0021",
       "images": [
         {
-          "thumbnail": "images/star-wars/mandalorians/bounty-hunters/the-mandalorian-din-djarin-thumb.jpg",
+          "thumbnail": "images/star-wars/mandalorians/bounty-hunters/SW-0021-the-mandalorian-din-djarin-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/mandalorians/bounty-hunters/the-mandalorian-din-djarin-mini.jpg"
+          "url": "images/star-wars/mandalorians/bounty-hunters/SW-0021-the-mandalorian-din-djarin-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/mandalorians/bounty-hunters/the-mandalorian-din-djarin-thumb.jpg",
+          "thumbnail": "images/star-wars/mandalorians/bounty-hunters/SW-0021-the-mandalorian-din-djarin-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/mandalorians/bounty-hunters/the-mandalorian-din-djarin-paint-sheet.jpg"
+          "url": "images/star-wars/mandalorians/bounty-hunters/SW-0021-the-mandalorian-din-djarin-paint-sheet.jpg"
         }
       ],
       "name": "The Mandalorian - Din Djarin",
@@ -401,17 +401,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "advanced-recon-commando-trooper-fives",
+      "id": "SW-0022",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0022-advanced-recon-commando-trooper-fives-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-mini.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0022-advanced-recon-commando-trooper-fives-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0022-advanced-recon-commando-trooper-fives-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0022-advanced-recon-commando-trooper-fives-paint-sheet.jpg"
         }
       ],
       "name": "Advanced Recon Commando Trooper Fives",
@@ -420,17 +420,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "advanced-recon-commando-trooper-fives-2",
+      "id": "SW-0023",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0023-advanced-recon-commando-trooper-fives-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-2-mini.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0023-advanced-recon-commando-trooper-fives-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0023-advanced-recon-commando-trooper-fives-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-trooper-fives-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0023-advanced-recon-commando-trooper-fives-2-paint-sheet.jpg"
         }
       ],
       "name": "Advanced Recon Commando Trooper Fives #2",
@@ -439,17 +439,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "advanced-recon-force-clone-trooper-phase-ii",
+      "id": "SW-0024",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-clone-trooper-phase-ii-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0024-advanced-recon-force-clone-trooper-phase-ii-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-clone-trooper-phase-ii-mini.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0024-advanced-recon-force-clone-trooper-phase-ii-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-clone-trooper-phase-ii-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0024-advanced-recon-force-clone-trooper-phase-ii-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/advanced-recon-force-clone-trooper-phase-ii-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-force-troopers/SW-0024-advanced-recon-force-clone-trooper-phase-ii-paint-sheet.jpg"
         }
       ],
       "name": "Advanced Recon Force Clone Trooper (Phase II)",
@@ -458,17 +458,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "alliance-rebel-gran-trooper",
+      "id": "SW-0025",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-gran-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0025-alliance-rebel-gran-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-gran-trooper-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0025-alliance-rebel-gran-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-gran-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0025-alliance-rebel-gran-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/alliance-rebel-gran-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0025-alliance-rebel-gran-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Alliance Rebel Gran Trooper",
@@ -477,17 +477,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-airborne-trooper-sharpshooter",
+      "id": "SW-0026",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/airborne-troopers/clone-airborne-trooper-sharpshooter-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/airborne-troopers/SW-0026-clone-airborne-trooper-sharpshooter-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/airborne-troopers/clone-airborne-trooper-sharpshooter-mini.jpg"
+          "url": "images/star-wars/galactic-republic/airborne-troopers/SW-0026-clone-airborne-trooper-sharpshooter-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/airborne-troopers/clone-airborne-trooper-sharpshooter-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/airborne-troopers/SW-0026-clone-airborne-trooper-sharpshooter-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/airborne-troopers/clone-airborne-trooper-sharpshooter-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/airborne-troopers/SW-0026-clone-airborne-trooper-sharpshooter-paint-sheet.jpg"
         }
       ],
       "name": "Clone Airborne Trooper Sharpshooter",
@@ -496,17 +496,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-trooper-phase-i",
+      "id": "SW-0027",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-i-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0027-clone-trooper-phase-i-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-i-mini.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0027-clone-trooper-phase-i-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-i-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0027-clone-trooper-phase-i-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-i-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0027-clone-trooper-phase-i-paint-sheet.jpg"
         }
       ],
       "name": "Clone Trooper (Phase I)",
@@ -515,17 +515,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-trooper-phase-ii",
+      "id": "SW-0028",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0028-clone-trooper-phase-ii-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-mini.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0028-clone-trooper-phase-ii-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0028-clone-trooper-phase-ii-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0028-clone-trooper-phase-ii-paint-sheet.jpg"
         }
       ],
       "name": "Clone Trooper (Phase II)",
@@ -534,17 +534,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-trooper-phase-ii-2",
+      "id": "SW-0029",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0029-clone-trooper-phase-ii-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-2-mini.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0029-clone-trooper-phase-ii-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0029-clone-trooper-phase-ii-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0029-clone-trooper-phase-ii-2-paint-sheet.jpg"
         }
       ],
       "name": "Clone Trooper (Phase II) #2",
@@ -553,17 +553,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "delta-squad-clone-commando-scorch",
+      "id": "SW-0030",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/delta-squad-clone-commando-scorch-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0030-delta-squad-clone-commando-scorch-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/delta-squad-clone-commando-scorch-mini.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0030-delta-squad-clone-commando-scorch-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/delta-squad-clone-commando-scorch-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0030-delta-squad-clone-commando-scorch-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/delta-squad-clone-commando-scorch-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0030-delta-squad-clone-commando-scorch-paint-sheet.jpg"
         }
       ],
       "name": "Delta Squad Clone Commando Scorch",
@@ -572,17 +572,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-elite-squad-trooper",
+      "id": "SW-0031",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0031-imperial-elite-squad-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0031-imperial-elite-squad-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0031-imperial-elite-squad-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0031-imperial-elite-squad-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Elite Squad Trooper",
@@ -591,17 +591,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-elite-squad-trooper-2",
+      "id": "SW-0032",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0032-imperial-elite-squad-trooper-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-2-mini.jpg"
+          "url": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0032-imperial-elite-squad-trooper-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0032-imperial-elite-squad-trooper-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/elite-squad-troopers/imperial-elite-squad-trooper-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/elite-squad-troopers/SW-0032-imperial-elite-squad-trooper-2-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Elite Squad Trooper #2",
@@ -610,17 +610,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "range-trooper",
+      "id": "SW-0033",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/range-troopers/range-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/range-troopers/SW-0033-range-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/range-troopers/range-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/range-troopers/SW-0033-range-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/range-troopers/range-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/range-troopers/SW-0033-range-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/range-troopers/range-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/range-troopers/SW-0033-range-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Range Trooper",
@@ -629,17 +629,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "rebel-alliance-duros-trooper",
+      "id": "SW-0034",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-duros-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0034-rebel-alliance-duros-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-duros-trooper-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0034-rebel-alliance-duros-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-duros-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0034-rebel-alliance-duros-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-duros-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0034-rebel-alliance-duros-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Rebel Alliance Duros Trooper",
@@ -648,17 +648,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "rebel-alliance-ishi-tib-trooper",
+      "id": "SW-0035",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-ishi-tib-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0035-rebel-alliance-ishi-tib-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-ishi-tib-trooper-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0035-rebel-alliance-ishi-tib-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-ishi-tib-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0035-rebel-alliance-ishi-tib-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-ishi-tib-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0035-rebel-alliance-ishi-tib-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Rebel Alliance Ishi Tib Trooper",
@@ -667,17 +667,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "stormtrooper-riot-control-shield-enforcer",
+      "id": "SW-0036",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0036-stormtrooper-riot-control-shield-enforcer-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0036-stormtrooper-riot-control-shield-enforcer-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0036-stormtrooper-riot-control-shield-enforcer-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0036-stormtrooper-riot-control-shield-enforcer-paint-sheet.jpg"
         }
       ],
       "name": "Stormtrooper Riot Control Shield Enforcer",
@@ -686,17 +686,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "stormtrooper-riot-control-shield-enforcer-2",
+      "id": "SW-0037",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0037-stormtrooper-riot-control-shield-enforcer-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-2-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0037-stormtrooper-riot-control-shield-enforcer-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0037-stormtrooper-riot-control-shield-enforcer-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-riot-control-shield-enforcer-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0037-stormtrooper-riot-control-shield-enforcer-2-paint-sheet.jpg"
         }
       ],
       "name": "Stormtrooper Riot Control Shield Enforcer #2",
@@ -705,17 +705,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "stormtrooper-unit-leader",
+      "id": "SW-0038",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-unit-leader-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0038-stormtrooper-unit-leader-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-unit-leader-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0038-stormtrooper-unit-leader-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-unit-leader-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0038-stormtrooper-unit-leader-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-unit-leader-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0038-stormtrooper-unit-leader-paint-sheet.jpg"
         }
       ],
       "name": "Stormtrooper Unit Leader",
@@ -724,17 +724,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "501st-legion-advanced-recon-commando-captain-rex-2",
+      "id": "SW-0039",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/501st-legion/SW-0039-501st-legion-advanced-recon-commando-captain-rex-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-2-mini.jpg"
+          "url": "images/star-wars/galactic-republic/501st-legion/SW-0039-501st-legion-advanced-recon-commando-captain-rex-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/501st-legion/SW-0039-501st-legion-advanced-recon-commando-captain-rex-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/501st-legion/SW-0039-501st-legion-advanced-recon-commando-captain-rex-2-paint-sheet.jpg"
         }
       ],
       "name": "501st Legion - Advanced Recon Commando - Captain Rex #2",
@@ -743,17 +743,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "501st-legion-advanced-recon-commando-captain-rex",
+      "id": "SW-0040",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/501st-legion/SW-0040-501st-legion-advanced-recon-commando-captain-rex-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-mini.jpg"
+          "url": "images/star-wars/galactic-republic/501st-legion/SW-0040-501st-legion-advanced-recon-commando-captain-rex-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/501st-legion/SW-0040-501st-legion-advanced-recon-commando-captain-rex-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/501st-legion/501st-legion-advanced-recon-commando-captain-rex-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/501st-legion/SW-0040-501st-legion-advanced-recon-commando-captain-rex-paint-sheet.jpg"
         }
       ],
       "name": "501st Legion - Advanced Recon Commando - Captain Rex",
@@ -762,17 +762,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "501st-legion-captain-rex",
+      "id": "SW-0041",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/501st-legion/501st-legion-captain-rex-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/501st-legion/SW-0041-501st-legion-captain-rex-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/501st-legion/501st-legion-captain-rex-mini.jpg"
+          "url": "images/star-wars/galactic-republic/501st-legion/SW-0041-501st-legion-captain-rex-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/501st-legion/501st-legion-captain-rex-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/501st-legion/SW-0041-501st-legion-captain-rex-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/501st-legion/501st-legion-captain-rex-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/501st-legion/SW-0041-501st-legion-captain-rex-paint-sheet.jpg"
         }
       ],
       "name": "501st Legion - Captain Rex",
@@ -781,17 +781,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "advanced-recon-commando-captain-fordo",
+      "id": "SW-0042",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-captain-fordo-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0042-advanced-recon-commando-captain-fordo-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-captain-fordo-mini.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0042-advanced-recon-commando-captain-fordo-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-captain-fordo-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0042-advanced-recon-commando-captain-fordo-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/advanced-recon-commando-captain-fordo-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/advanced-recon-commandos/SW-0042-advanced-recon-commando-captain-fordo-paint-sheet.jpg"
         }
       ],
       "name": "Advanced Recon Commando - Captain Fordo",
@@ -800,17 +800,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "advanced-recon-commando-trooper",
+      "id": "SW-0043",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/advanced-recon-commando-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0043-advanced-recon-commando-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/advanced-recon-commando-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0043-advanced-recon-commando-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/advanced-recon-commando-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0043-advanced-recon-commando-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/advanced-recon-commando-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0043-advanced-recon-commando-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Advanced Recon Commando Trooper",
@@ -819,17 +819,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-commando-2",
+      "id": "SW-0044",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0044-clone-commando-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-2-mini.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0044-clone-commando-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/republic-special-forces/SW-0044-clone-commando-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/republic-special-forces/clone-commando-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/republic-special-forces/SW-0044-clone-commando-2-paint-sheet.jpg"
         }
       ],
       "name": "Clone Commando #2",
@@ -838,17 +838,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-trooper-commander",
+      "id": "SW-0045",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0045-clone-trooper-commander-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-commander-mini.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0045-clone-trooper-commander-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0045-clone-trooper-commander-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-commander-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0045-clone-trooper-commander-paint-sheet.jpg"
         }
       ],
       "name": "Clone Trooper Commander",
@@ -857,17 +857,17 @@
     },
     {
       "faction": "Galactic Republic",
-      "id": "clone-trooper-phase-ii-3",
+      "id": "SW-0046",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-3-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0046-clone-trooper-phase-ii-3-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-3-mini.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0046-clone-trooper-phase-ii-3-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-3-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-republic/clone-troopers/SW-0046-clone-trooper-phase-ii-3-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-republic/clone-troopers/clone-trooper-phase-ii-3-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-republic/clone-troopers/SW-0046-clone-trooper-phase-ii-3-paint-sheet.jpg"
         }
       ],
       "name": "Clone Trooper (Phase II) #3",
@@ -876,17 +876,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-heavy-weapons-trooper",
+      "id": "SW-0047",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapons-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0047-imperial-heavy-weapons-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapons-trooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0047-imperial-heavy-weapons-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapons-trooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0047-imperial-heavy-weapons-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/imperial-heavy-weapons-trooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0047-imperial-heavy-weapons-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Heavy Weapons Trooper",
@@ -895,17 +895,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-mudtrooper",
+      "id": "SW-0048",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/imperial-mudtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/SW-0048-imperial-mudtrooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/mudtroopers/imperial-mudtrooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/mudtroopers/SW-0048-imperial-mudtrooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/imperial-mudtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/SW-0048-imperial-mudtrooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/mudtroopers/imperial-mudtrooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/mudtroopers/SW-0048-imperial-mudtrooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Mudtrooper",
@@ -914,17 +914,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-shoretrooper-2",
+      "id": "SW-0049",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/SW-0049-imperial-shoretrooper-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-2-mini.jpg"
+          "url": "images/star-wars/galactic-empire/shoretroopers/SW-0049-imperial-shoretrooper-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/SW-0049-imperial-shoretrooper-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/shoretroopers/SW-0049-imperial-shoretrooper-2-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Shoretrooper #2",
@@ -933,17 +933,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "imperial-shoretrooper",
+      "id": "SW-0050",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/SW-0050-imperial-shoretrooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/shoretroopers/SW-0050-imperial-shoretrooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/shoretroopers/SW-0050-imperial-shoretrooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/shoretroopers/imperial-shoretrooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/shoretroopers/SW-0050-imperial-shoretrooper-paint-sheet.jpg"
         }
       ],
       "name": "Imperial Shoretrooper",
@@ -952,17 +952,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "mimban-stormtrooper-2",
+      "id": "SW-0051",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/SW-0051-mimban-stormtrooper-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-2-mini.jpg"
+          "url": "images/star-wars/galactic-empire/mudtroopers/SW-0051-mimban-stormtrooper-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/SW-0051-mimban-stormtrooper-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/mudtroopers/SW-0051-mimban-stormtrooper-2-paint-sheet.jpg"
         }
       ],
       "name": "Mimban Stormtrooper #2",
@@ -971,17 +971,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "mimban-stormtrooper",
+      "id": "SW-0052",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/SW-0052-mimban-stormtrooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-mini.jpg"
+          "url": "images/star-wars/galactic-empire/mudtroopers/SW-0052-mimban-stormtrooper-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/mudtroopers/SW-0052-mimban-stormtrooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/mudtroopers/mimban-stormtrooper-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/mudtroopers/SW-0052-mimban-stormtrooper-paint-sheet.jpg"
         }
       ],
       "name": "Mimban Stormtrooper",
@@ -990,17 +990,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "range-trooper-2",
+      "id": "SW-0053",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/range-troopers/range-trooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/range-troopers/SW-0053-range-trooper-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/range-troopers/range-trooper-2-mini.jpg"
+          "url": "images/star-wars/galactic-empire/range-troopers/SW-0053-range-trooper-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/range-troopers/range-trooper-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/range-troopers/SW-0053-range-trooper-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/range-troopers/range-trooper-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/range-troopers/SW-0053-range-trooper-2-paint-sheet.jpg"
         }
       ],
       "name": "Range Trooper #2",
@@ -1009,17 +1009,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "rebel-alliance-rodian-commander",
+      "id": "SW-0054",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-rodian-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0054-rebel-alliance-rodian-commander-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-rodian-commander-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0054-rebel-alliance-rodian-commander-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-rodian-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/rebel-troopers/SW-0054-rebel-alliance-rodian-commander-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/rebel-troopers/rebel-alliance-rodian-commander-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/rebel-troopers/SW-0054-rebel-alliance-rodian-commander-paint-sheet.jpg"
         }
       ],
       "name": "Rebel Alliance Rodian Commander",
@@ -1028,17 +1028,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "rebel-alliance-soldier-cold-weather-gear-2",
+      "id": "SW-0055",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-2-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0055-rebel-alliance-soldier-cold-weather-gear-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-2-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0055-rebel-alliance-soldier-cold-weather-gear-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-2-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0055-rebel-alliance-soldier-cold-weather-gear-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-2-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0055-rebel-alliance-soldier-cold-weather-gear-2-paint-sheet.jpg"
         }
       ],
       "name": "Rebel Alliance Soldier - Cold Weather Gear #2",
@@ -1047,17 +1047,17 @@
     },
     {
       "faction": "Rebel Alliance",
-      "id": "rebel-alliance-soldier-cold-weather-gear",
+      "id": "SW-0056",
       "images": [
         {
-          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0056-rebel-alliance-soldier-cold-weather-gear-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-mini.jpg"
+          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0056-rebel-alliance-soldier-cold-weather-gear-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-thumb.jpg",
+          "thumbnail": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0056-rebel-alliance-soldier-cold-weather-gear-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/rebel-alliance-soldier-cold-weather-gear-paint-sheet.jpg"
+          "url": "images/star-wars/rebel-alliance/cold-weather-troopers/SW-0056-rebel-alliance-soldier-cold-weather-gear-paint-sheet.jpg"
         }
       ],
       "name": "Rebel Alliance Soldier - Cold Weather Gear",
@@ -1066,17 +1066,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "stormtrooper-commander-2",
+      "id": "SW-0057",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0057-stormtrooper-commander-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-2-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0057-stormtrooper-commander-2-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-2-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0057-stormtrooper-commander-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-2-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0057-stormtrooper-commander-2-paint-sheet.jpg"
         }
       ],
       "name": "Stormtrooper Commander #2",
@@ -1085,17 +1085,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "stormtrooper-commander",
+      "id": "SW-0058",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0058-stormtrooper-commander-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0058-stormtrooper-commander-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0058-stormtrooper-commander-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-commander-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0058-stormtrooper-commander-paint-sheet.jpg"
         }
       ],
       "name": "Stormtrooper Commander",
@@ -1104,17 +1104,17 @@
     },
     {
       "faction": "Galactic Empire",
-      "id": "stormtrooper-gunner",
+      "id": "SW-0059",
       "images": [
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-gunner-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0059-stormtrooper-gunner-thumb.jpg",
           "type": "miniature",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-gunner-mini.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0059-stormtrooper-gunner-mini.jpg"
         },
         {
-          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-gunner-thumb.jpg",
+          "thumbnail": "images/star-wars/galactic-empire/stormtroopers/SW-0059-stormtrooper-gunner-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/star-wars/galactic-empire/stormtroopers/stormtrooper-gunner-paint-sheet.jpg"
+          "url": "images/star-wars/galactic-empire/stormtroopers/SW-0059-stormtrooper-gunner-paint-sheet.jpg"
         }
       ],
       "name": "Stormtrooper Gunner",
@@ -1123,17 +1123,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "desolation-marine-with-superfrag-rocket-laucher",
+      "id": "WH-0060",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/desolation-marine-with-superfrag-rocket-laucher-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0060-desolation-marine-with-superfrag-rocket-laucher-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/desolation-marine-with-superfrag-rocket-laucher-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0060-desolation-marine-with-superfrag-rocket-laucher-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/desolation-marine-with-superfrag-rocket-laucher-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0060-desolation-marine-with-superfrag-rocket-laucher-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/desolation-marine-with-superfrag-rocket-laucher-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0060-desolation-marine-with-superfrag-rocket-laucher-paint-sheet.jpg"
         }
       ],
       "name": "Desolation Marine with Superfrag Rocket Laucher",
@@ -1142,17 +1142,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "gravis-eradicator",
+      "id": "WH-0061",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/gravis-eradicator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0061-gravis-eradicator-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/gravis-eradicator-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0061-gravis-eradicator-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/gravis-eradicator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0061-gravis-eradicator-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/gravis-eradicator-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0061-gravis-eradicator-paint-sheet.jpg"
         }
       ],
       "name": "Gravis Eradicator",
@@ -1161,17 +1161,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "jump-pack-vanguard-marine",
+      "id": "WH-0062",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/jump-pack-vanguard-marine-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0062-jump-pack-vanguard-marine-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/jump-pack-vanguard-marine-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0062-jump-pack-vanguard-marine-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/jump-pack-vanguard-marine-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0062-jump-pack-vanguard-marine-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/jump-pack-vanguard-marine-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0062-jump-pack-vanguard-marine-paint-sheet.jpg"
         }
       ],
       "name": "Jump Pack Vanguard Marine",
@@ -1180,17 +1180,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "phobos-incursor-sergeant",
+      "id": "WH-0063",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-incursor-sergeant-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0063-phobos-incursor-sergeant-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-incursor-sergeant-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0063-phobos-incursor-sergeant-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-incursor-sergeant-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0063-phobos-incursor-sergeant-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-incursor-sergeant-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0063-phobos-incursor-sergeant-paint-sheet.jpg"
         }
       ],
       "name": "Phobos Incursor Sergeant",
@@ -1199,17 +1199,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "phobos-infiltrator",
+      "id": "WH-0064",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-infiltrator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0064-phobos-infiltrator-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-infiltrator-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0064-phobos-infiltrator-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-infiltrator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0064-phobos-infiltrator-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/phobos-infiltrator-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0064-phobos-infiltrator-paint-sheet.jpg"
         }
       ],
       "name": "Phobos Infiltrator",
@@ -1218,17 +1218,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-eradicator",
+      "id": "WH-0065",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eradicator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0065-raptors-eradicator-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eradicator-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0065-raptors-eradicator-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eradicator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0065-raptors-eradicator-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eradicator-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0065-raptors-eradicator-paint-sheet.jpg"
         }
       ],
       "name": "Raptors - Eradicator",
@@ -1237,17 +1237,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-primaris-reiver-demolitions-specialist",
+      "id": "WH-0066",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-primaris-reiver-demolitions-specialist-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0066-raptors-primaris-reiver-demolitions-specialist-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-primaris-reiver-demolitions-specialist-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0066-raptors-primaris-reiver-demolitions-specialist-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-primaris-reiver-demolitions-specialist-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0066-raptors-primaris-reiver-demolitions-specialist-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-primaris-reiver-demolitions-specialist-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0066-raptors-primaris-reiver-demolitions-specialist-paint-sheet.jpg"
         }
       ],
       "name": "Raptors – Primaris Reiver / Demolitions Specialist",
@@ -1256,17 +1256,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "soul-haunters-ancient-with-banner",
+      "id": "WH-0067",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-ancient-with-banner-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0067-soul-haunters-ancient-with-banner-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-ancient-with-banner-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0067-soul-haunters-ancient-with-banner-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-ancient-with-banner-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0067-soul-haunters-ancient-with-banner-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-ancient-with-banner-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0067-soul-haunters-ancient-with-banner-paint-sheet.jpg"
         }
       ],
       "name": "Soul Haunters - Ancient with Banner",
@@ -1275,17 +1275,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "soul-haunters-judiciar",
+      "id": "WH-0068",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-judiciar-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0068-soul-haunters-judiciar-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-judiciar-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0068-soul-haunters-judiciar-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-judiciar-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0068-soul-haunters-judiciar-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-judiciar-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0068-soul-haunters-judiciar-paint-sheet.jpg"
         }
       ],
       "name": "Soul Haunters - Judiciar",
@@ -1294,17 +1294,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "soul-haunters-space-marine-veteran",
+      "id": "WH-0069",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-space-marine-veteran-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0069-soul-haunters-space-marine-veteran-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-space-marine-veteran-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0069-soul-haunters-space-marine-veteran-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-space-marine-veteran-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0069-soul-haunters-space-marine-veteran-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/soul-haunters-space-marine-veteran-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/soul-haunters/WH-0069-soul-haunters-space-marine-veteran-paint-sheet.jpg"
         }
       ],
       "name": "Soul Haunters - Space Marine Veteran",
@@ -1313,17 +1313,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "space-marine-veteran-with-cyber-mastiff",
+      "id": "WH-0070",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-veteran-with-cyber-mastiff-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0070-space-marine-veteran-with-cyber-mastiff-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-veteran-with-cyber-mastiff-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0070-space-marine-veteran-with-cyber-mastiff-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-veteran-with-cyber-mastiff-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0070-space-marine-veteran-with-cyber-mastiff-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-veteran-with-cyber-mastiff-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0070-space-marine-veteran-with-cyber-mastiff-paint-sheet.jpg"
         }
       ],
       "name": "Space Marine Veteran with Cyber-Mastiff",
@@ -1332,17 +1332,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "black-templars-intercessor",
+      "id": "WH-0071",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/black-templars/black-templars-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/black-templars/WH-0071-black-templars-intercessor-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/black-templars/black-templars-intercessor-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/black-templars/WH-0071-black-templars-intercessor-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/black-templars/black-templars-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/black-templars/WH-0071-black-templars-intercessor-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/black-templars/black-templars-intercessor-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/black-templars/WH-0071-black-templars-intercessor-paint-sheet.jpg"
         }
       ],
       "name": "Black Templars Intercessor",
@@ -1351,17 +1351,17 @@
     },
     {
       "faction": "Astra Militarum",
-      "id": "cadian-shock-trooper",
+      "id": "WH-0072",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/cadian/cadian-shock-trooper-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/cadian/WH-0072-cadian-shock-trooper-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/astra-militarum/cadian/cadian-shock-trooper-mini.jpg"
+          "url": "images/warhammer-40000/astra-militarum/cadian/WH-0072-cadian-shock-trooper-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/cadian/cadian-shock-trooper-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/cadian/WH-0072-cadian-shock-trooper-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/astra-militarum/cadian/cadian-shock-trooper-paint-sheet.jpg"
+          "url": "images/warhammer-40000/astra-militarum/cadian/WH-0072-cadian-shock-trooper-paint-sheet.jpg"
         }
       ],
       "name": "Cadian Shock Trooper",
@@ -1370,17 +1370,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "crimson-fists-intercessor",
+      "id": "WH-0073",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/crimson-fists/crimson-fists-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/crimson-fists/WH-0073-crimson-fists-intercessor-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/crimson-fists/crimson-fists-intercessor-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/crimson-fists/WH-0073-crimson-fists-intercessor-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/crimson-fists/crimson-fists-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/crimson-fists/WH-0073-crimson-fists-intercessor-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/crimson-fists/crimson-fists-intercessor-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/crimson-fists/WH-0073-crimson-fists-intercessor-paint-sheet.jpg"
         }
       ],
       "name": "Crimson Fists Intercessor",
@@ -1389,17 +1389,17 @@
     },
     {
       "faction": "Astra Militarum",
-      "id": "death-korps-kill-team-2",
+      "id": "WH-0074",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-2-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0074-death-korps-kill-team-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-2-mini.jpg"
+          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0074-death-korps-kill-team-2-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-2-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0074-death-korps-kill-team-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-2-paint-sheet.jpg"
+          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0074-death-korps-kill-team-2-paint-sheet.jpg"
         }
       ],
       "name": "Death Korps Kill Team #2",
@@ -1408,17 +1408,17 @@
     },
     {
       "faction": "Astra Militarum",
-      "id": "death-korps-kill-team-3",
+      "id": "WH-0075",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-3-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0075-death-korps-kill-team-3-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-3-mini.jpg"
+          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0075-death-korps-kill-team-3-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-3-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0075-death-korps-kill-team-3-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-3-paint-sheet.jpg"
+          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0075-death-korps-kill-team-3-paint-sheet.jpg"
         }
       ],
       "name": "Death Korps Kill Team #3",
@@ -1427,17 +1427,17 @@
     },
     {
       "faction": "Astra Militarum",
-      "id": "death-korps-kill-team",
+      "id": "WH-0076",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0076-death-korps-kill-team-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-mini.jpg"
+          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0076-death-korps-kill-team-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0076-death-korps-kill-team-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/death-korps-kill-team-paint-sheet.jpg"
+          "url": "images/warhammer-40000/astra-militarum/death-korps-of-krieg/WH-0076-death-korps-kill-team-paint-sheet.jpg"
         }
       ],
       "name": "Death Korps Kill Team",
@@ -1446,17 +1446,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "flesh-tearers",
+      "id": "WH-0077",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/flesh-tearers/flesh-tearers-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/flesh-tearers/WH-0077-flesh-tearers-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/flesh-tearers/flesh-tearers-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/flesh-tearers/WH-0077-flesh-tearers-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/flesh-tearers/flesh-tearers-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/flesh-tearers/WH-0077-flesh-tearers-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/flesh-tearers/flesh-tearers-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/flesh-tearers/WH-0077-flesh-tearers-paint-sheet.jpg"
         }
       ],
       "name": "Flesh Tearers",
@@ -1465,17 +1465,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "iron-hands-intercessor",
+      "id": "WH-0078",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/iron-hands/iron-hands-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/iron-hands/WH-0078-iron-hands-intercessor-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/iron-hands/iron-hands-intercessor-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/iron-hands/WH-0078-iron-hands-intercessor-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/iron-hands/iron-hands-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/iron-hands/WH-0078-iron-hands-intercessor-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/iron-hands/iron-hands-intercessor-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/iron-hands/WH-0078-iron-hands-intercessor-paint-sheet.jpg"
         }
       ],
       "name": "Iron Hands Intercessor",
@@ -1484,17 +1484,17 @@
     },
     {
       "faction": "Orks",
-      "id": "ork-kommando-nob",
+      "id": "WH-0079",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/orks/kommandos/ork-kommando-nob-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/orks/kommandos/WH-0079-ork-kommando-nob-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/orks/kommandos/ork-kommando-nob-mini.jpg"
+          "url": "images/warhammer-40000/orks/kommandos/WH-0079-ork-kommando-nob-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/orks/kommandos/ork-kommando-nob-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/orks/kommandos/WH-0079-ork-kommando-nob-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/orks/kommandos/ork-kommando-nob-paint-sheet.jpg"
+          "url": "images/warhammer-40000/orks/kommandos/WH-0079-ork-kommando-nob-paint-sheet.jpg"
         }
       ],
       "name": "Ork Kommando Nob",
@@ -1503,17 +1503,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-4th-company-captain-vale",
+      "id": "WH-0080",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-4th-company-captain-vale-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0080-raptors-4th-company-captain-vale-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-4th-company-captain-vale-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0080-raptors-4th-company-captain-vale-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-4th-company-captain-vale-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0080-raptors-4th-company-captain-vale-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-4th-company-captain-vale-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0080-raptors-4th-company-captain-vale-paint-sheet.jpg"
         }
       ],
       "name": "Raptors 4th Company Captain Vale",
@@ -1522,17 +1522,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-captain-voland",
+      "id": "WH-0081",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-captain-voland-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0081-raptors-captain-voland-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-captain-voland-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0081-raptors-captain-voland-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-captain-voland-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0081-raptors-captain-voland-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-captain-voland-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0081-raptors-captain-voland-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Captain Voland",
@@ -1541,17 +1541,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "space-marine-primaris-librarian",
+      "id": "WH-0082",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-primaris-librarian-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0082-space-marine-primaris-librarian-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-primaris-librarian-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0082-space-marine-primaris-librarian-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-primaris-librarian-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0082-space-marine-primaris-librarian-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/space-marines/space-marine-primaris-librarian-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/space-marines/WH-0082-space-marine-primaris-librarian-paint-sheet.jpg"
         }
       ],
       "name": "Space Marine Primaris Librarian",
@@ -1560,17 +1560,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-eliminator-2",
+      "id": "WH-0083",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0083-raptors-eliminator-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0083-raptors-eliminator-2-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0083-raptors-eliminator-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-2-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0083-raptors-eliminator-2-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Eliminator #2",
@@ -1579,17 +1579,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-eliminator-3",
+      "id": "WH-0084",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0084-raptors-eliminator-3-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0084-raptors-eliminator-3-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0084-raptors-eliminator-3-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-3-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0084-raptors-eliminator-3-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Eliminator #3",
@@ -1598,17 +1598,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-eliminator",
+      "id": "WH-0085",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0085-raptors-eliminator-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0085-raptors-eliminator-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0085-raptors-eliminator-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-eliminator-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0085-raptors-eliminator-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Eliminator",
@@ -1617,17 +1617,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-judiciar",
+      "id": "WH-0086",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0086-raptors-judiciar-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0086-raptors-judiciar-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0086-raptors-judiciar-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-judiciar-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0086-raptors-judiciar-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Judiciar",
@@ -1636,17 +1636,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-phobos-captain",
+      "id": "WH-0087",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0087-raptors-phobos-captain-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0087-raptors-phobos-captain-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0087-raptors-phobos-captain-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-captain-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0087-raptors-phobos-captain-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Phobos Captain",
@@ -1655,17 +1655,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-phobos-librarian",
+      "id": "WH-0088",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0088-raptors-phobos-librarian-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0088-raptors-phobos-librarian-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0088-raptors-phobos-librarian-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-librarian-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0088-raptors-phobos-librarian-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Phobos Librarian",
@@ -1674,17 +1674,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-phobos-lieutenant",
+      "id": "WH-0089",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0089-raptors-phobos-lieutenant-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0089-raptors-phobos-lieutenant-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0089-raptors-phobos-lieutenant-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-phobos-lieutenant-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0089-raptors-phobos-lieutenant-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Phobos Lieutenant",
@@ -1693,17 +1693,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-terminator-2",
+      "id": "WH-0090",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0090-raptors-terminator-2-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0090-raptors-terminator-2-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0090-raptors-terminator-2-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-2-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0090-raptors-terminator-2-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Terminator #2",
@@ -1712,17 +1712,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raptors-terminator",
+      "id": "WH-0091",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0091-raptors-terminator-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0091-raptors-terminator-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raptors/WH-0091-raptors-terminator-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raptors/raptors-terminator-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raptors/WH-0091-raptors-terminator-paint-sheet.jpg"
         }
       ],
       "name": "Raptors Terminator",
@@ -1731,17 +1731,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "raven-guard-intercessor",
+      "id": "WH-0092",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raven-guard/WH-0092-raven-guard-intercessor-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raven-guard/WH-0092-raven-guard-intercessor-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/raven-guard/WH-0092-raven-guard-intercessor-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/raven-guard/raven-guard-intercessor-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/raven-guard/WH-0092-raven-guard-intercessor-paint-sheet.jpg"
         }
       ],
       "name": "Raven Guard Intercessor",
@@ -1750,17 +1750,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "retributor-space-marine",
+      "id": "WH-0093",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/retributors/WH-0093-retributor-space-marine-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/retributors/WH-0093-retributor-space-marine-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/retributors/WH-0093-retributor-space-marine-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/retributors/retributor-space-marine-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/retributors/WH-0093-retributor-space-marine-paint-sheet.jpg"
         }
       ],
       "name": "Retributor Space Marine",
@@ -1769,17 +1769,17 @@
     },
     {
       "faction": "Adeptus Astartes",
-      "id": "salamanders-intercessor",
+      "id": "WH-0094",
       "images": [
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/salamanders/WH-0094-salamanders-intercessor-thumb.jpg",
           "type": "miniature",
-          "url": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-mini.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/salamanders/WH-0094-salamanders-intercessor-mini.jpg"
         },
         {
-          "thumbnail": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-thumb.jpg",
+          "thumbnail": "images/warhammer-40000/adeptus-astartes/salamanders/WH-0094-salamanders-intercessor-thumb.jpg",
           "type": "painting-sheet",
-          "url": "images/warhammer-40000/adeptus-astartes/salamanders/salamanders-intercessor-paint-sheet.jpg"
+          "url": "images/warhammer-40000/adeptus-astartes/salamanders/WH-0094-salamanders-intercessor-paint-sheet.jpg"
         }
       ],
       "name": "Salamanders Intercessor",
@@ -1792,5 +1792,6 @@
     "eyebrow": "PAUL NEVES · COLLECTION",
     "subtitle": "Miniatures & Painting Reference Sheets",
     "title": "Miniature Painting Collection"
-  }
+  },
+  "lastCatalogNumber": 94
 }
