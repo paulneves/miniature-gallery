@@ -60,7 +60,7 @@ function openItem(id){
   const m=catalog.miniatures.find(x=>x.id===id);
   if(!m)return;
   $('#viewer-title').textContent=m.name;
-  $('#viewer-path').textContent=[`ID: ${m.id}`,m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).join(' / ');
+  $('#viewer-path').innerHTML=[m.id,m.universe,m.faction,m.subfaction,brandOf(m)].filter(Boolean).map(v=>`<div>${v}</div>`).join('');
   $('#viewer-description').textContent=m.description||'';
   $('#viewer-tags').innerHTML=(m.tags||[]).map(t=>`<span>${t}</span>`).join('');
   const tabs=$('#image-tabs');
@@ -77,15 +77,6 @@ function showImage(m,i){
   viewerImage.src=fullUrl(im);
   viewerImage.alt=im.title||m.name;
   document.querySelectorAll('#image-tabs button').forEach((b,n)=>b.classList.toggle('active',n===i));
-  const link=$('#source-link');
-  if(im.link){
-    link.href=im.link;
-    link.hidden=false;
-    link.textContent=im.credit?`Source: ${im.credit} ↗`:'Open source page ↗';
-  }else{
-    link.hidden=true;
-    link.removeAttribute('href');
-  }
 }
 
 [universe,faction,subfaction,paintBrand].forEach(el=>el.addEventListener('change',()=>{refreshFilters();render()}));
