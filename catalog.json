@@ -1785,6 +1785,386 @@
       "name": "Salamanders Intercessor",
       "subfaction": "Salamanders",
       "universe": "Warhammer 40,000"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0095",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0095-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0095-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0095-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0095-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0096",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0096-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0096-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0096-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0096-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0097",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0097-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0097-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0097-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0097-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0098",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0098-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0098-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0098-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0098-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0099",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0099-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0099-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0099-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0099-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0100",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0100-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0100-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0100-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0100-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0101",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0101-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0101-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0101-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0101-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0102",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0102-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0102-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0102-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0102-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0103",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0103-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0103-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0103-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0103-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0104",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0104-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0104-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0104-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0104-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0105",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0105-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0105-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0105-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0105-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0106",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0106-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0106-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0106-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0106-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0107",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0107-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0107-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0107-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0107-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Republic",
+      "id": "SW-0108",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-republic/327th-star-corps/SW-0108-327th-star-corps-clone-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-republic/327th-star-corps/SW-0108-327th-star-corps-clone-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-republic/327th-star-corps/SW-0108-327th-star-corps-clone-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-republic/327th-star-corps/SW-0108-327th-star-corps-clone-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "327th Star Corps Clone Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "327th Star Corps",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Republic",
+      "id": "SW-0109",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-republic/327th-star-corps/SW-0109-327th-star-corps-clone-trooper-commander-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-republic/327th-star-corps/SW-0109-327th-star-corps-clone-trooper-commander-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-republic/327th-star-corps/SW-0109-327th-star-corps-clone-trooper-commander-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-republic/327th-star-corps/SW-0109-327th-star-corps-clone-trooper-commander-paint-sheet.jpg"
+        }
+      ],
+      "name": "327th Star Corps Clone Trooper Commander",
+      "paintBrand": "AK Interactive",
+      "subfaction": "327th Star Corps",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Republic",
+      "id": "SW-0110",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-republic/327th-star-corps/SW-0110-327th-star-corps-clone-commander-bly-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-republic/327th-star-corps/SW-0110-327th-star-corps-clone-commander-bly-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-republic/327th-star-corps/SW-0110-327th-star-corps-clone-commander-bly-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-republic/327th-star-corps/SW-0110-327th-star-corps-clone-commander-bly-paint-sheet.jpg"
+        }
+      ],
+      "name": "327th Star Corps - Clone Commander Bly",
+      "paintBrand": "AK Interactive",
+      "subfaction": "327th Star Corps",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Republic",
+      "id": "SW-0111",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-republic/212th-attack-battalion/SW-0111-212th-attack-battalion-at-rt-clone-trooper-pilot-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-republic/212th-attack-battalion/SW-0111-212th-attack-battalion-at-rt-clone-trooper-pilot-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-republic/212th-attack-battalion/SW-0111-212th-attack-battalion-at-rt-clone-trooper-pilot-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-republic/212th-attack-battalion/SW-0111-212th-attack-battalion-at-rt-clone-trooper-pilot-paint-sheet.jpg"
+        }
+      ],
+      "name": "212th Attack Battalion AT-RT Clone Trooper Pilot",
+      "paintBrand": "AK Interactive",
+      "subfaction": "212th Attack Battalion",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0112",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0112-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0112-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0112-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0112-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
+    },
+    {
+      "faction": "Galactic Empire",
+      "id": "SW-0113",
+      "images": [
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0113-imperial-remnant-trooper-thumb.jpg",
+          "type": "miniature",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0113-imperial-remnant-trooper-mini.jpg"
+        },
+        {
+          "thumbnail": "images/star-wars/galactic-empire/imperial-remnant/SW-0113-imperial-remnant-trooper-thumb.jpg",
+          "type": "painting-sheet",
+          "url": "images/star-wars/galactic-empire/imperial-remnant/SW-0113-imperial-remnant-trooper-paint-sheet.jpg"
+        }
+      ],
+      "name": "Imperial Remnant Trooper",
+      "paintBrand": "AK Interactive",
+      "subfaction": "Imperial Remnant",
+      "universe": "Star Wars"
     }
   ],
   "site": {
@@ -1793,5 +2173,5 @@
     "subtitle": "Miniatures & Painting Reference Sheets",
     "title": "Miniature Painting Collection"
   },
-  "lastCatalogNumber": 94
+  "lastCatalogNumber": 113
 }
