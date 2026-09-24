@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "title": "Night Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Imperial Remnant",
+  "paintBrand": "AK Interactive",
+  "assets": {
+    "miniature": "170847-night-trooper-mini.jpg",
+    "thumbnail": "170847-night-trooper-thumb.jpg",
+    "paintingSheet": "170847-night-trooper-paint-sheet.jpg"
+  }
+}
