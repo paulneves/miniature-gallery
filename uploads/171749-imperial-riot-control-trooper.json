@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "title": "Imperial Riot Control Trooper",
+  "universe": "Star Wars",
+  "faction": "Galactic Empire",
+  "subfaction": "Stormtroopers",
+  "paintBrand": "AK Interactive",
+  "assets": {
+    "miniature": "171749-imperial-riot-control-trooper-mini.jpg",
+    "thumbnail": "171749-imperial-riot-control-trooper-thumb.jpg",
+    "paintingSheet": "171749-imperial-riot-control-trooper-paint-sheet.jpg"
+  }
+}
