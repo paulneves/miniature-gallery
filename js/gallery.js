@@ -11,8 +11,9 @@ function optionList(el,values,label,current=''){
 
 function brandOf(m){return m.paintBrand||'AK Interactive';}
 function imageOf(m){return (m.images||[]).find(i=>i.type==='miniature')||(m.images||[])[0]||{url:''};}
-function thumbnailUrl(im){return cleanAssetUrl(im.thumbnail||im.thumb||im.url||'');}
-function fullUrl(im){return cleanAssetUrl(im.url||im.full||im.thumbnail||im.thumb||'');}
+function revisionedUrl(url,im){const clean=cleanAssetUrl(url);return im.assetRevision?`${clean}?v=${encodeURIComponent(im.assetRevision)}`:clean;}
+function thumbnailUrl(im){return revisionedUrl(im.thumbnail||im.thumb||im.url||'',im);}
+function fullUrl(im){return revisionedUrl(im.url||im.full||im.thumbnail||im.thumb||'',im);}
 
 function refreshFilters(){
   const u=universe.value,f=faction.value,s=subfaction.value,p=paintBrand.value;
