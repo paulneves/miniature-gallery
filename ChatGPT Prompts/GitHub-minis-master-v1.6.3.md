@@ -271,6 +271,13 @@ For a batch, use deterministic manifest/package processing order and allocate co
 ## UPDATE IMAGES — EXISTING PUBLISHED MODEL
 UPDATE IMAGES is a third operation independent of PHASE A and PHASE B. It modifies image assets for a miniature that already exists in `catalog.json`.
 
+### Execution environment
+1. Full end-to-end UPDATE IMAGES execution requires **ChatGPT Work** whenever the operation must write/replace binary JPG/PNG assets in GitHub.
+2. A normal chat may inspect the catalogue, identify the target, receive/prepare images and archive originals in Google Drive when the required connectors are available, but it must not claim completion if its GitHub integration cannot persist binary assets.
+3. If binary GitHub persistence is unavailable in the current chat, stop before publication and clearly report that the remaining replacement must be completed in ChatGPT Work.
+4. Never substitute a text-only GitHub write, catalogue-only edit, or local derivative for the required binary asset replacement.
+5. UPDATE IMAGES is considered successful only after the final GitHub binary assets have been written and re-read/validated.
+
 Typical commands: `Atualizar imagens SW-0095`, `Substituir foto SW-0095`, `Update images SW-0095`, or an equivalent unambiguous request.
 
 ### Identity and target
@@ -355,6 +362,7 @@ v1.6.3 extends v1.6.2 without changing the established Phase A/Phase B publicati
 - Successful Phase B removes source staging assets and manifest last.
 - Failures remain recoverable.
 - UPDATE IMAGES is independent of Phase A/B and only modifies already published models.
+- End-to-end UPDATE IMAGES requires ChatGPT Work when GitHub binary asset persistence is needed; normal chat must never report success without that binary write and validation.
 - UPDATE IMAGES never allocates a new ID, never changes `lastCatalogNumber`, and never uses `uploads/`.
 - Replacing the main miniature image also regenerates/replaces its thumbnail.
 - Replacement originals are archived in Drive without destroying previous originals.
